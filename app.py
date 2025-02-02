@@ -354,10 +354,9 @@ def retention_strategies_page(df):
     Our AI-driven model not only predicts churn but also recommends personalized retention actions to keep your customers engaged.
     """)
 
-    # Ensure 'CustomerID' exists or create one
+
     if 'CustomerID' not in df.columns:
-        st.warning("CustomerID not found. Creating a unique index-based identifier.")
-        df['CustomerID'] = df.index.astype(str)  # Use index as a fallback ID
+        df['CustomerID'] = df.index.astype(str)
 
     # Data Processing
     processed_data, label_encoders = preprocess_data(df.copy())

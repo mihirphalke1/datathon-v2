@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -8,11 +7,12 @@ from sklearn.decomposition import PCA
 from sklearn.metrics import silhouette_score
 from sklearn.impute import SimpleImputer
 from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from sklearn.pipeline import Pipeline
 import plotly.express as px
 import plotly.graph_objects as go
+from lifelines import CoxPHFitter
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -345,7 +345,7 @@ def prediction_page(df):
     st.success('Predictions have been saved to data/churn_predictions.csv')
 
 # --------------------------
-# Retention Strategies Page Functions
+# Retention Strategies Functions
 # --------------------------
 def retention_strategies_page(df):
     st.title("Retention Strategies Recommendations")
@@ -354,9 +354,9 @@ def retention_strategies_page(df):
     Our AI-driven model not only predicts churn but also recommends personalized retention actions to keep your customers engaged.
     """)
 
-
+    # Ensure 'CustomerID' exists or create one
     if 'CustomerID' not in df.columns:
-        df['CustomerID'] = df.index.astype(str)
+        df['CustomerID'] = df.index.astype(str)  # Use index as a fallback ID
 
     # Data Processing
     processed_data, label_encoders = preprocess_data(df.copy())
@@ -402,6 +402,269 @@ def retention_strategies_page(df):
        mime="text/csv"
     )
 
+# --------------------------
+# Time-to-Churn Analysis Functions
+# --------------------------
+def clean_dataset(df):
+    """
+    Clean the dataset by handling missing values and ensuring data types
+    """
+    data = df.copy()
+    
+    required_columns = [
+        'SubscriptionType', 'PaymentMethod', 'PaperlessBilling', 'Topic_Cluster',
+        'MonthlyCharges', 'TotalCharges', 'UserRating', 'Review_Sentiment',
+        'Rating_Sentiment', 'Final_Sentiment_Score', 'AccountAge', 'Churn'
+    ]
+    
+    missing_cols = set(required_columns) - set(df.columns)
+    if missing_cols:
+        st.error(f"Missing required columns: {', '.join(missing_cols)}")
+        return None
+    
+    # Handle missing values
+    numeric_cols = ['MonthlyCharges', 'TotalCharges', 'UserRating', 
+                   'Review_Sentiment', 'Rating_Sentiment', 'Final_Sentiment_Score']
+    for col in numeric_cols:
+        data[col] = pd.to_numeric(data[col], errors='coerce')
+        data[col].fillna(data[col].mean(), inplace=True)
+    
+    categorical_cols = ['SubscriptionType', 'PaymentMethod', 'PaperlessBilling', 'Topic_Cluster']
+    for col in categorical_cols:
+        data[col].fillna(data[col].mode()[0], inplace=True)
+    
+    data['AccountAge'] = pd.to_numeric(data['AccountAge'], errors='coerce')
+    data['AccountAge'].fillna(data['AccountAge'].mean(), inplace=True)
+    
+    data['Churn'] = data['Churn'].map({1: 'Yes', 0: 'No'})
+    data['Churn'].fillna('No', inplace=True)
+    
+    return data
+
+def prepare_data_for_survival(df):
+    """
+    Prepare the dataset for survival analysis with correlation handling
+    """
+    data = df.copy()
+    
+    # Convert categorical variables
+    le = LabelEncoder()
+    categorical_cols = ['SubscriptionType', 'PaymentMethod', 'PaperlessBilling', 'Topic_Cluster']
+    for col in categorical_cols:
+        data[col] = le.fit_transform(data[col])
+    
+    # Select only key numeric features to reduce collinearity
+    numeric_cols = ['MonthlyCharges', 'UserRating', 'Final_Sentiment_Score']
+    
+    # Scale numeric features
+    scaler = StandardScaler()
+    data[numeric_cols] = scaler.fit_transform(data[numeric_cols])
+    
+    # Create duration and event columns
+    data['duration'] = data['AccountAge']
+    data['event'] = (data['Churn'] == 'Yes').astype(int)
+    
+    return data
+
+def fit_cox_model(data):
+    """
+    Fit Cox Proportional Hazards model with regularization
+    """
+    # Initialize Cox model with regularization
+    cph = CoxPHFitter(penalizer=0.1, l1_ratio=0.0)
+    
+    # Select reduced feature set to avoid collinearity
+    features = [
+        'MonthlyCharges',
+        'UserRating',
+        'Final_Sentiment_Score',
+        'SubscriptionType',
+        'PaymentMethod',
+        'PaperlessBilling'
+    ]
+    
+    # Prepare data for the model
+    cph_data = data[features + ['duration', 'event']]
+    
+    try:
+        # Fit the model with robust standard errors
+        cph.fit(cph_data, duration_col='duration', event_col='event', robust=True)
+        return cph
+    except Exception as e:
+        st.error(f"Error fitting Cox model: {str(e)}")
+        return None
+
+def create_survival_curves_plot(model, data):
+    """
+    Create survival curves plot
+    """
+    # Generate survival curves
+    sf = model.predict_survival_function(data)
+    
+    # Create plot
+    fig = go.Figure()
+    
+    # Add individual curves for a sample of customers
+    sample_size = min(50, len(sf))
+    sample_indices = np.random.choice(len(sf), sample_size, replace=False)
+    
+    for idx in sample_indices:
+        fig.add_trace(go.Scatter(
+            x=sf.index,
+            y=sf.iloc[:, idx],
+            mode='lines',
+            line=dict(width=0.5, color='rgba(70, 130, 180, 0.1)'),
+            showlegend=False
+        ))
+    
+    # Add mean survival curve
+    mean_sf = sf.mean(axis=1)
+    fig.add_trace(go.Scatter(
+        x=sf.index,
+        y=mean_sf,
+        mode='lines',
+        line=dict(width=3, color='red'),
+        name='Mean Survival Curve'
+    ))
+    
+    fig.update_layout(
+        title='Customer Survival Curves',
+        xaxis_title='Time (days)',
+        yaxis_title='Survival Probability',
+        template='plotly_white'
+    )
+    
+    return fig
+
+def create_risk_factors_plot(model):
+    """
+    Create risk factors plot
+    """
+    # Get hazard ratios
+    hazard_ratios = np.exp(model.params_)
+    
+    # Create plot
+    fig = go.Figure()
+    
+    fig.add_trace(go.Bar(
+        x=hazard_ratios.values,
+        y=hazard_ratios.index,
+        orientation='h'
+    ))
+    
+    fig.update_layout(
+        title='Risk Factors Impact on Churn',
+        xaxis_title='Hazard Ratio (higher = more risk)',
+        yaxis_title='Features',
+        template='plotly_white'
+    )
+    
+    return fig
+
+# --------------------------
+# Simple Churn Analysis Functions
+# --------------------------
+def analyze_churn_simple(df):
+    st.title("Why Customers Leave - Simple Analysis")
+    
+    # Convert Churn to numeric if needed
+    if not pd.api.types.is_numeric_dtype(df['Churn']):
+        df['Churn'] = pd.to_numeric(df['Churn'], errors='coerce')
+    
+    # 1. Usage Patterns
+    st.header("1. Usage Patterns")
+    fig1 = px.box(df, x='Churn', y='ViewingHoursPerWeek',
+                  title='Viewing Hours: Churned vs Retained Customers',
+                  labels={'ViewingHoursPerWeek': 'Weekly Viewing Hours'})
+    fig1.update_layout(xaxis_title="Customer Status (1 = Churned, 0 = Retained)")
+    st.plotly_chart(fig1)
+    
+    # 2. Customer Satisfaction
+    st.header("2. Customer Satisfaction")
+    fig2 = px.histogram(df, x='UserRating', color='Churn',
+                       title='User Ratings Distribution',
+                       barmode='group',
+                       labels={'UserRating': 'Rating Given by User'})
+    st.plotly_chart(fig2)
+    
+    # 3. Support Issues
+    st.header("3. Support Issues")
+    fig3 = px.scatter(df, x='SupportTicketsPerMonth', y='Negative_Feedback',
+                      color='Churn', 
+                      title='Support Tickets vs Negative Feedback',
+                      labels={
+                          'SupportTicketsPerMonth': 'Monthly Support Tickets',
+                          'Negative_Feedback': 'Negative Feedback Count'
+                      })
+    st.plotly_chart(fig3)
+    
+    # 4. Pricing Impact
+    st.header("4. Pricing Impact")
+    fig4 = px.box(df, x='Churn', y='MonthlyCharges',
+                  title='Monthly Charges: Churned vs Retained Customers',
+                  labels={'MonthlyCharges': 'Monthly Charges ($)'})
+    fig4.update_layout(xaxis_title="Customer Status (1 = Churned, 0 = Retained)")
+    st.plotly_chart(fig4)
+    
+    # 5. Key Risk Indicators
+    st.header("5. Key Risk Indicators")
+    risk_factors = [
+        'Late_Payments',
+        'Downgraded_Plan',
+        'Auto_Renewal_Off',
+        'Uses_Competitor_Platforms'
+    ]
+    
+    risk_data = []
+    for factor in risk_factors:
+        churn_rate = df[df[factor] == 1]['Churn'].mean() * 100
+        risk_data.append({
+            'Factor': factor,
+            'Churn Rate (%)': churn_rate
+        })
+    
+    risk_df = pd.DataFrame(risk_data)
+    fig5 = px.bar(risk_df, x='Factor', y='Churn Rate (%)',
+                  title='Churn Rate by Risk Factor',
+                  labels={'Factor': 'Risk Factor'})
+    st.plotly_chart(fig5)
+    
+    # Summary Stats
+    st.header("Summary of Key Findings")
+    col1, col2, col3 = st.columns(3)
+    
+    with col1:
+        avg_viewing_churned = df[df['Churn'] == 1]['ViewingHoursPerWeek'].mean()
+        avg_viewing_retained = df[df['Churn'] == 0]['ViewingHoursPerWeek'].mean()
+        st.metric("Avg Weekly Viewing Hours", 
+                 f"{avg_viewing_retained:.1f} hrs (retained)",
+                 f"{avg_viewing_churned:.1f} hrs (churned)")
+    
+    with col2:
+        avg_rating_churned = df[df['Churn'] == 1]['UserRating'].mean()
+        avg_rating_retained = df[df['Churn'] == 0]['UserRating'].mean()
+        st.metric("Avg User Rating", 
+                 f"{avg_rating_retained:.1f} (retained)",
+                 f"{avg_rating_churned:.1f} (churned)")
+    
+    with col3:
+        avg_tickets_churned = df[df['Churn'] == 1]['SupportTicketsPerMonth'].mean()
+        avg_tickets_retained = df[df['Churn'] == 0]['SupportTicketsPerMonth'].mean()
+        st.metric("Avg Monthly Support Tickets", 
+                 f"{avg_tickets_retained:.1f} (retained)",
+                 f"{avg_tickets_churned:.1f} (churned)")
+
+    # Clear Recommendations
+    st.header("Clear Action Items")
+    st.write("""
+    Based on the data, here are the key areas to focus on:
+    
+    1. **Engagement Alert**: Customers watching less than average hours per week need attention
+    2. **Support Focus**: High number of support tickets is a strong churn indicator
+    3. **Pricing Sensitivity**: Review pricing for customers with higher monthly charges
+    4. **Risk Monitoring**: Watch for late payments and plan downgrades
+    5. **Competitor Analysis**: Users with competitor platforms are at higher risk
+    """)
 
 # --------------------------
 # Main App
@@ -412,7 +675,10 @@ def main():
     
     st.sidebar.title("Navigation")
     page = st.sidebar.radio("Select Analysis Type", 
-                            ["Customer Clustering", "Churn Prediction", "Retention Strategies"])
+                           ["Customer Clustering", 
+                            "Churn Prediction", 
+                            "Retention Strategies",
+                            "Why Customers Leave?"])
     
     if page == "Customer Clustering":
         clustering_page(data)
@@ -420,7 +686,82 @@ def main():
         prediction_page(data)
     elif page == "Retention Strategies":
         retention_strategies_page(data)
+    # elif page == "Time-to-Churn Analysis":
+    #     # Create a new page for time-to-churn analysis
+    #     st.title("🔮 Time-to-Churn Forecast Dashboard")
+    #     try:
+    #         cleaned_df = clean_dataset(data)
+    #         if cleaned_df is not None:
+    #             prepared_data = prepare_data_for_survival(cleaned_df)
+    #             cox_model = fit_cox_model(prepared_data)
+    #             if cox_model is not None:
+    #                 # Display summary statistics
+    #                 st.subheader("📊 Model Summary")
+    #                 col1, col2 = st.columns(2)
+                    
+    #                 with col1:
+    #                     st.metric("Churn Rate", f"{(data['Churn'].value_counts()[1] / len(data) * 100):.1f}%")
+                    
+    #                 with col2:
+    #                     st.metric("Median Account Age", f"{data['AccountAge'].median():.0f} days")
+    #                     st.metric("Average Monthly Charges", f"${data['MonthlyCharges'].mean():.2f}")
+                    
+    #                 # Show survival curves
+    #                 st.subheader("📈 Survival Analysis")
+    #                 survival_fig = create_survival_curves_plot(cox_model, prepared_data)
+    #                 st.plotly_chart(survival_fig, use_container_width=True)
+                    
+    #                 # Show risk factors
+    #                 st.subheader("⚠️ Risk Factors")
+    #                 risk_fig = create_risk_factors_plot(cox_model)
+    #                 st.plotly_chart(risk_fig, use_container_width=True)
+        
+    #                 # Individual customer predictions
+    #                 st.subheader("🎯 Individual Customer Predictions")
+        
+    #                 # Customer selector
+    #                 selected_customer = st.selectbox(
+    #                     "Select a customer to analyze:",
+    #                     range(len(df)),
+    #                     format_func=lambda x: f"Customer {x+1}"
+    #                 )
+        
+    #                 # Show customer details
+    #                 customer_data = cleaned_df.iloc[selected_customer]
+    #                 col1, col2, col3 = st.columns(3)
+        
+    #                 with col1:
+    #                     st.write("**Subscription Details:**")
+    #                     st.write(f"Type: {customer_data['SubscriptionType']}")
+    #                     st.write(f"Payment: {customer_data['PaymentMethod']}")
+                        
+    #                 with col2:
+    #                     st.write("**Usage Metrics:**")
+    #                     st.write(f"Monthly Charges: ${customer_data['MonthlyCharges']:.2f}")
+    #                     st.write(f"Account Age: {customer_data['AccountAge']} days")
+                        
+    #                 with col3:
+    #                     st.write("**Sentiment Metrics:**")
+    #                     st.write(f"User Rating: {customer_data['UserRating']}/5")
+    #                     st.write(f"Sentiment Score: {customer_data['Final_Sentiment_Score']:.2f}")
+        
+    #     # Calculate and show survival probability
+    #                 customer_surv = cox_model.predict_survival_function(prepared_data.iloc[selected_customer:selected_customer+1])
+        
+    #     # Find the time at which survival probability drops below 0.5
+    #                 median_survival = customer_surv.index[np.where(customer_surv.values < 0.5)[0][0]] if any(customer_surv.values < 0.5) else ">365"
+        
+    #                 st.metric(
+    #                     "Predicted Days Until Churn Risk",
+    #                     f"{median_survival} days",
+    #                     delta=f"{int(median_survival) - customer_data['AccountAge']} days remaining" if isinstance(median_survival, (int, float)) else "Low risk"
+    #                 )
+        
+    #     except Exception as e:
+    #         st.error(f"Error processing data: {str(e)}")
+    #         st.info("Please ensure your dataset contains all required columns and proper data formats.")
+    else:
+        analyze_churn_simple(data)
 
 if __name__ == "__main__":
     main()
-

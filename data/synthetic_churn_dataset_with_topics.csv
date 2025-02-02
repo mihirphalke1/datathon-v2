@@ -1,0 +1,1001 @@
+AccountAge,MonthlyCharges,TotalCharges,SubscriptionType,PaymentMethod,PaperlessBilling,UserRating,Reviews,Churn,Review_Sentiment,Rating_Sentiment,Final_Sentiment_Score,Topic_Cluster
+39,47.84822007985676,1867.785343641939,Standard,Debit Card,0,4,Great service!,1,1.0,1,1.0,Service & Support
+52,80.62014375498786,4538.866413460026,Basic,Bank Transfer,1,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+29,67.54252212768182,3872.7290312332266,Premium,Debit Card,1,2,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+15,82.45402007674257,2827.5215838899144,Standard,Debit Card,1,4,Great service!,1,1.0,1,1.0,Service & Support
+43,91.28359528089636,1352.6604892654343,Standard,Debit Card,1,1,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+8,65.55373408875627,1580.0964589904956,Standard,Debit Card,0,3,Love the variety of shows!,0,0.625,0,0.4375,Content Quality
+21,98.241645258314,3686.594531169609,Standard,Credit Card,0,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+39,64.72790645876967,4270.753878178577,Standard,Debit Card,1,4,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+58,67.29798894600543,3389.980880700011,Standard,Credit Card,1,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+19,59.93340476880031,4066.696881265365,Basic,Debit Card,1,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+23,18.19018819461973,3856.615062481989,Premium,PayPal,1,4,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+11,75.37573293852054,833.5494429890929,Premium,Bank Transfer,1,1,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+11,59.27016762092004,2177.32958327518,Standard,Debit Card,1,4,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+24,50.5819402674494,849.6206240599571,Premium,PayPal,1,2,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+53,91.94241505629458,1252.6543655297255,Premium,Debit Card,1,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+36,36.816350638775546,4359.372160790157,Premium,Debit Card,0,3,"Good content, but too expensive.",0,0.0999999999999999,0,0.0699999999999999,Service & Support
+40,57.12420484135101,2417.1706316025925,Standard,Debit Card,0,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+24,72.7877684344117,2723.2546990290384,Standard,PayPal,0,5,Great service!,1,1.0,1,1.0,Service & Support
+3,81.68245981064895,974.3852296160834,Premium,Bank Transfer,1,5,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+22,51.34121271515552,1630.1317516391005,Premium,PayPal,1,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+53,85.78822735168387,1228.2062252965627,Standard,Bank Transfer,1,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+2,79.20259671838578,1110.3122061402896,Basic,Debit Card,0,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+24,15.961238006667926,3226.0078872482536,Premium,Credit Card,1,1,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+44,14.127513976416964,1358.7308534640026,Basic,Debit Card,0,5,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+30,65.87251159798822,3196.8758815000506,Premium,Bank Transfer,1,1,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+38,41.26720674028728,386.42760913191415,Basic,PayPal,0,4,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+2,28.82177119706628,794.6945282827991,Basic,Debit Card,0,4,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+21,62.16849410245646,1445.2472446006143,Basic,PayPal,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+33,40.740688941089054,3025.5298927888894,Standard,PayPal,1,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+12,58.3537075042663,3411.622100928142,Basic,PayPal,0,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+58,51.41072430852148,2269.313137219682,Basic,Debit Card,1,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+22,62.62894953542383,2284.375481428422,Basic,PayPal,1,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+44,46.027044001925326,3650.132571853229,Premium,PayPal,1,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+25,72.79008163272385,177.52334965135395,Basic,Debit Card,1,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+49,26.206054511436868,1771.3411199236807,Premium,PayPal,1,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+27,72.6851319604371,4111.66457988424,Basic,Debit Card,0,4,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+59,47.04950929217753,3055.775110045524,Basic,Bank Transfer,1,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+42,88.68858443689754,1752.41295050156,Standard,Bank Transfer,1,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+28,56.371244937778975,4537.071482415402,Premium,Bank Transfer,1,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+16,97.5799314343094,3885.8513645019743,Basic,PayPal,1,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+15,64.17418559868642,1397.9876914599938,Premium,Credit Card,1,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+47,30.146415931568853,3261.9202038760127,Premium,Credit Card,0,3,Very slow and bad experience.,0,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+51,83.96115731600042,3019.178568125888,Standard,PayPal,0,1,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+44,41.0574365040148,2065.820778791015,Standard,Credit Card,1,4,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+55,41.28572930344152,1898.0847881035236,Standard,Debit Card,0,3,Frequent buffering issues.,1,0.1,0,0.0699999999999999,Pricing & Value
+52,12.862421333664862,1783.4463264009494,Standard,Credit Card,0,4,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+57,59.38437782866678,3124.0633386386694,Standard,PayPal,1,1,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+3,58.09811533592707,2267.8086887552804,Standard,PayPal,0,3,Price is too high for what you get.,1,0.16,0,0.1119999999999999,Pricing & Value
+37,42.03923358447875,4176.129254931968,Standard,Debit Card,1,4,Great service!,0,1.0,1,1.0,Service & Support
+51,90.47955366063331,3381.052819056413,Standard,Bank Transfer,0,5,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+7,21.587355846967952,442.6648679762272,Basic,PayPal,0,5,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+21,39.70895619791399,3236.8242967580136,Premium,Debit Card,0,1,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+9,38.94244882120261,1428.6224388509056,Standard,Credit Card,1,3,Streaming quality is poor.,0,-0.4,0,-0.2799999999999999,Service & Support
+39,18.306152760587143,3004.778759101772,Standard,Credit Card,0,2,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+18,53.30308546506639,3432.646462406912,Premium,Debit Card,0,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+4,71.90062453864746,1231.0630268546593,Basic,Debit Card,1,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+25,56.04913121925351,2338.6073599138062,Premium,PayPal,1,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+14,24.12799144445744,1032.5918278134322,Premium,Credit Card,0,2,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+50,43.95573687178653,356.46049135389075,Standard,Debit Card,1,1,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+58,10.23355219452819,1954.5344750807585,Premium,Credit Card,0,2,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+9,88.14709963320281,1878.426932045361,Premium,Debit Card,0,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+26,17.606530691261373,4977.85440445086,Standard,Credit Card,1,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+53,63.75502740298875,2287.1265208684467,Standard,Bank Transfer,1,1,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+2,98.76312962801336,1734.490792413782,Standard,PayPal,1,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+20,58.29315813885993,2944.327532911705,Standard,Credit Card,0,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+28,93.163758319669,534.9602311280655,Premium,Bank Transfer,1,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+47,31.25048798056639,4812.1621061785845,Premium,Credit Card,0,1,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+7,78.3959868043827,3211.3042233960623,Basic,Credit Card,1,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+44,57.81391785761807,3798.705317710154,Basic,Bank Transfer,0,2,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+8,74.84644552523184,935.341897052196,Premium,Credit Card,1,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+47,15.61072262601173,2106.441479725499,Basic,Credit Card,0,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+35,23.2965182715604,2171.1766556413286,Premium,PayPal,1,1,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+14,21.980523572873043,4126.851575115325,Basic,Bank Transfer,0,1,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+17,71.8448954862998,106.05973082110629,Standard,Bank Transfer,1,4,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+36,85.99966053702659,1574.1802309309498,Basic,Debit Card,1,5,Great service!,0,1.0,1,1.0,Service & Support
+50,77.46546088077287,4908.058234287089,Standard,Credit Card,0,4,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+40,12.742493746023474,2426.9440631804714,Standard,PayPal,1,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+4,88.0493482967251,1974.3787731956404,Standard,Credit Card,0,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+2,41.87320037138129,687.1621098864671,Standard,Credit Card,0,1,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+6,45.74474492536743,4873.406680277276,Basic,Debit Card,1,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+54,19.43822498792328,198.1291440365399,Premium,Credit Card,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+42,76.36646854844372,3712.1831025354913,Standard,PayPal,1,2,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+4,26.405549062836226,3866.139043463692,Basic,PayPal,1,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+54,60.75685828169527,1293.9179087129464,Standard,Debit Card,0,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+29,85.6638987290138,3390.636373703883,Basic,Credit Card,1,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+18,18.02838958408505,555.3528074590106,Basic,PayPal,0,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+26,58.18020076139712,1359.531605517191,Basic,Credit Card,0,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+44,30.98947703948211,3960.7197426320986,Premium,Credit Card,1,3,Affordable and good selection.,1,0.7,0,0.4899999999999999,Service & Support
+34,40.863417785043424,4336.962340964347,Basic,Credit Card,1,5,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+10,52.65729472875005,3081.583422032977,Basic,Debit Card,0,3,Price is too high for what you get.,0,0.16,0,0.1119999999999999,Pricing & Value
+36,41.95938729513743,2583.508315920365,Premium,Credit Card,0,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+14,68.39405562624184,880.5897010330035,Premium,PayPal,1,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+31,53.16238915788252,409.2342620878358,Basic,Credit Card,1,4,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+48,62.57795362427523,676.4802395204373,Premium,PayPal,1,3,Affordable and good selection.,0,0.7,0,0.4899999999999999,Service & Support
+15,76.31402278554216,1214.050770470884,Standard,Credit Card,1,3,Frequent buffering issues.,0,0.1,0,0.0699999999999999,Pricing & Value
+8,60.19680393553936,1774.2050592949122,Standard,PayPal,0,3,Great service!,0,1.0,0,0.7,Service & Support
+14,62.78818911946832,1966.4566750038373,Premium,PayPal,1,1,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+23,60.80126882703772,1796.9766660861171,Premium,Credit Card,0,2,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+57,44.08953633561604,1271.3711277666014,Basic,Credit Card,0,4,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+40,40.37021504847263,2597.648809083321,Premium,PayPal,1,4,Great service!,1,1.0,1,1.0,Service & Support
+21,90.9682657430511,4143.901930341195,Basic,Bank Transfer,0,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+16,64.67997000642156,1470.5473385102482,Standard,Debit Card,1,3,Very slow and bad experience.,0,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+45,31.991783991818902,4717.696393600942,Premium,Bank Transfer,0,3,Love the variety of shows!,0,0.625,0,0.4375,Content Quality
+18,54.842292806404615,4379.349642446854,Basic,Bank Transfer,1,3,"Good content, but too expensive.",0,0.0999999999999999,0,0.0699999999999999,Service & Support
+47,39.73136331528226,892.6446356253371,Basic,Credit Card,0,4,"Good content, but too expensive.",1,0.0999999999999999,1,0.37,Service & Support
+53,94.03226413838873,3952.752188109763,Standard,Debit Card,0,5,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+24,10.678092682066726,2915.4781733570567,Premium,Bank Transfer,1,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+26,30.27995179412754,2876.219274639951,Standard,Credit Card,1,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+25,42.88211377066519,2016.1095389850548,Basic,Bank Transfer,0,1,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+45,53.90288207278641,2555.649695991848,Basic,Bank Transfer,0,4,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+41,86.57357660525317,2046.176009403134,Premium,Credit Card,1,3,Customer support is unresponsive.,0,0.0,0,0.0,Content Quality
+29,17.90988620861295,2744.68983192372,Basic,Credit Card,0,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+15,82.52783980670291,3176.9552585859155,Premium,Credit Card,1,4,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+45,15.00881404212778,3404.0886514043373,Standard,Debit Card,0,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+1,85.80826317683635,2709.1578435411884,Premium,Bank Transfer,1,4,Great service!,0,1.0,1,1.0,Service & Support
+25,14.647193008706155,3634.9681299107856,Premium,Credit Card,0,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+7,11.641823328552494,792.2624414499784,Basic,PayPal,1,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+9,72.72653161297794,1138.7142054209687,Basic,Bank Transfer,1,5,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+24,99.75299812915549,4111.801519963923,Premium,PayPal,0,5,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+1,90.69492366766188,1680.3870914474344,Basic,Debit Card,1,1,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+44,61.8398576025094,212.1797423829892,Basic,Credit Card,0,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+8,92.56560517769783,853.5766333733524,Basic,PayPal,1,2,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+24,10.477000575784489,1195.710729031925,Premium,Debit Card,1,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+11,97.75604466506284,4790.882150683477,Basic,Credit Card,1,5,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+51,54.1673901332906,2907.9030017611617,Premium,PayPal,0,4,"Good content, but too expensive.",1,0.0999999999999999,1,0.37,Service & Support
+17,75.06064869595981,4670.380628333649,Basic,PayPal,1,3,Very slow and bad experience.,0,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+8,83.87753258380172,2918.300417433462,Standard,Debit Card,0,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+35,74.66115437528983,2448.8367566754737,Basic,Credit Card,1,2,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+35,58.15330588404195,1637.2656868510703,Basic,Credit Card,0,5,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+33,52.89575357137708,3071.2176277235403,Premium,PayPal,0,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+59,85.47243028323624,782.0703206258962,Premium,PayPal,0,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+5,28.45698041345132,4501.48197373426,Basic,PayPal,1,1,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+42,97.11946598538108,4163.72878519229,Standard,Credit Card,0,2,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+39,73.98572309530735,1655.9040945960114,Basic,Debit Card,1,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+58,27.955623460448777,4768.707885246342,Basic,Debit Card,0,4,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+41,76.26224653286394,4143.483760336284,Standard,Credit Card,0,3,Price is too high for what you get.,1,0.16,0,0.1119999999999999,Pricing & Value
+28,57.6856020863005,3364.9037405916947,Premium,Bank Transfer,0,1,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+7,73.650708608,696.6333645138465,Basic,Debit Card,0,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+9,79.1001551298555,2443.346712935554,Premium,PayPal,1,4,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+8,17.85611616307079,2579.9270187490797,Premium,Bank Transfer,0,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+12,55.54935607234123,1239.5016559903625,Standard,Bank Transfer,0,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+34,93.88129080312407,491.8304323605796,Standard,Debit Card,1,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+33,38.85779729435629,3905.945789311294,Premium,Bank Transfer,0,5,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+48,63.449478780210896,697.9717554095356,Basic,Bank Transfer,0,2,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+55,43.23074333589065,3012.0246777526963,Premium,Debit Card,0,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+23,50.88411749971897,4688.600952029937,Basic,Debit Card,0,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+24,59.374280614433786,4392.915443730409,Basic,Bank Transfer,1,4,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+37,59.40297819000796,1460.9878563713796,Standard,PayPal,1,2,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+35,28.155741609721225,4272.0983240012,Basic,Credit Card,0,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+44,71.611439309185,101.62927999039808,Basic,Bank Transfer,1,3,Very slow and bad experience.,0,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+40,17.908130011839113,186.6702671049604,Premium,Bank Transfer,1,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+22,22.494229609781836,3052.510502830038,Standard,PayPal,0,4,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+27,10.243980947289671,1887.5112738081943,Basic,Bank Transfer,1,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+35,20.50264577275132,1993.658121679821,Basic,Bank Transfer,0,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+1,52.5849580946703,2865.761344326524,Standard,Credit Card,1,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+35,64.54916929502548,1039.7340324001168,Premium,Credit Card,1,4,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+37,81.48605049698162,1137.601218260844,Standard,Credit Card,1,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+47,19.602932510209246,2474.547776392437,Standard,Debit Card,0,2,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+14,86.56547140148092,3795.842367284929,Basic,Debit Card,1,3,Affordable and good selection.,0,0.7,0,0.4899999999999999,Service & Support
+3,77.13770729938463,3135.5389818971794,Basic,Credit Card,0,4,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+1,46.76664636423252,1557.0397363605105,Premium,Credit Card,0,3,Price is too high for what you get.,1,0.16,0,0.1119999999999999,Pricing & Value
+5,93.96442603899592,2208.6521697937137,Basic,Debit Card,1,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+26,99.18365288116516,936.2573168949922,Basic,PayPal,0,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+55,28.450162904791352,465.6860902517004,Standard,Bank Transfer,1,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+14,44.13057264674204,3935.210599646331,Basic,Bank Transfer,0,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+39,93.380448123074,1400.3983050221534,Premium,Credit Card,0,5,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+27,74.94368956761494,971.0553004711162,Standard,PayPal,1,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+9,14.328517956767891,3488.928472289665,Premium,Debit Card,1,4,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+15,80.33630335762734,3128.4532040072118,Standard,Credit Card,1,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+15,84.51467984597427,3202.6291674659738,Basic,PayPal,1,1,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+26,77.54517322887821,1221.5835637484067,Standard,PayPal,0,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+42,81.9583417827564,1239.9631389571368,Standard,PayPal,0,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+13,84.26194090235175,1181.9328859496318,Basic,Debit Card,0,3,"Good content, but too expensive.",1,0.0999999999999999,0,0.0699999999999999,Service & Support
+51,26.77644881093297,951.3877187452432,Basic,Debit Card,1,4,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+32,31.21225714584998,3313.045995552116,Premium,Bank Transfer,0,4,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+39,67.03827073481595,4255.277837722067,Premium,Bank Transfer,1,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+49,91.70795174162645,3649.15560141564,Basic,PayPal,0,1,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+52,38.45769240668452,3981.2588054266616,Basic,PayPal,1,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+32,62.9476008215551,2083.512302517479,Basic,Debit Card,0,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+4,71.46838570754193,3304.971397322791,Standard,Bank Transfer,0,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+30,50.67537411691353,1835.7575781793955,Standard,PayPal,1,5,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+37,74.24042093697933,2674.972647646336,Standard,Bank Transfer,0,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+23,90.97007007629558,2460.0107480208253,Basic,Bank Transfer,1,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+39,66.16913897636539,966.7470112048866,Premium,PayPal,0,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+45,58.58029557231697,1996.685925644591,Basic,Debit Card,0,3,Frequent buffering issues.,1,0.1,0,0.0699999999999999,Pricing & Value
+15,49.48702078495052,4822.72914986352,Standard,PayPal,1,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+43,61.97376438155131,1318.043262803216,Standard,PayPal,1,3,Love the variety of shows!,1,0.625,0,0.4375,Content Quality
+29,41.98262066365562,755.6383077694948,Basic,Bank Transfer,0,2,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+36,45.23338991813517,2151.045045957283,Basic,PayPal,0,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+13,57.86717317193566,3972.654905714726,Standard,Debit Card,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+32,15.995720115173526,2952.526325921864,Standard,PayPal,0,3,Price is too high for what you get.,0,0.16,0,0.1119999999999999,Pricing & Value
+7,30.61228518323167,3436.7766534673983,Standard,Debit Card,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+59,58.8564379552068,1029.5047560559185,Basic,Debit Card,0,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+51,48.83753288227984,3132.8461457378357,Standard,Bank Transfer,1,4,Great service!,1,1.0,1,1.0,Service & Support
+22,39.95342073212359,1685.1519350662213,Standard,Credit Card,1,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+28,75.74942231283713,4188.086493178361,Premium,Credit Card,1,3,Customer support is unresponsive.,1,0.0,0,0.0,Content Quality
+2,72.43458466630045,3183.564149452607,Basic,Bank Transfer,0,4,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+42,25.005768399404484,1074.39576109895,Premium,PayPal,0,5,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+45,89.07662038360944,416.6217312360221,Premium,Bank Transfer,0,5,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+57,54.58812637635691,308.9027255064604,Standard,Debit Card,1,3,Frequent buffering issues.,1,0.1,0,0.0699999999999999,Pricing & Value
+53,76.73148200251408,1919.9019814856897,Basic,Credit Card,1,3,"Good content, but too expensive.",0,0.0999999999999999,0,0.0699999999999999,Service & Support
+6,61.58357643316498,1402.670569606136,Standard,Bank Transfer,0,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+28,99.7923354331459,3265.8416049662897,Basic,PayPal,0,4,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+28,77.71628080349404,2546.7357913952296,Premium,Bank Transfer,1,4,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+44,73.62824151191131,1403.4944622263656,Basic,Credit Card,1,3,Affordable and good selection.,0,0.7,0,0.4899999999999999,Service & Support
+44,80.0714745145676,831.265111955863,Standard,Bank Transfer,1,5,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+20,22.881518699362267,723.278837168503,Standard,Bank Transfer,0,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+30,28.409013385251694,4336.835921488047,Standard,Credit Card,0,5,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+11,74.26576740012527,1293.0420451838495,Basic,Debit Card,0,5,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+58,54.45833384177764,3293.382174763745,Premium,Debit Card,1,3,Love the variety of shows!,0,0.625,0,0.4375,Content Quality
+55,77.9171762674105,4072.3610471327047,Premium,Credit Card,1,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+28,19.26244276697305,3108.998424805207,Basic,Bank Transfer,0,4,Great service!,0,1.0,1,1.0,Service & Support
+25,58.283321633613525,4311.869635070034,Standard,Credit Card,0,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+39,44.09394090012241,2022.729235489525,Premium,Debit Card,1,5,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+33,51.13001973535105,4785.488734179847,Standard,PayPal,0,1,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+1,64.35620848652613,752.410520472675,Basic,Bank Transfer,1,2,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+57,55.20595127162771,600.5326953219367,Standard,Debit Card,1,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+27,58.5874573401553,3327.591516416473,Premium,Bank Transfer,0,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+57,53.7721733796047,4719.872592924982,Premium,Credit Card,1,5,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+52,46.80596593769439,4063.528962018008,Standard,PayPal,0,4,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+13,79.46937825384205,474.442611246452,Basic,Credit Card,1,1,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+41,11.098276508624007,1468.90179828011,Standard,PayPal,1,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+3,63.85984310847043,4658.562535705336,Basic,Bank Transfer,0,3,"Good content, but too expensive.",0,0.0999999999999999,0,0.0699999999999999,Service & Support
+39,60.89575125906765,1339.9863207238443,Standard,Bank Transfer,1,1,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+6,74.4561167259657,3927.735076555905,Premium,Credit Card,0,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+8,63.91264282995938,4143.147760050649,Basic,PayPal,0,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+27,84.41189450281705,2527.7153069588107,Basic,PayPal,1,4,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+9,96.3167315107625,1993.109658256746,Basic,Bank Transfer,0,1,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+37,40.8271831460689,2305.6097188568224,Premium,Credit Card,0,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+33,30.461588472698832,1212.1270023902844,Standard,PayPal,0,4,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+51,48.12371761784346,4458.015489031337,Premium,Bank Transfer,0,2,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+42,35.91366548281535,2308.0363179758137,Basic,Debit Card,0,1,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+44,65.34552368373889,4424.051258234889,Standard,Credit Card,0,4,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+24,92.06671679586682,617.898051540743,Premium,Debit Card,1,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+15,22.52045747287557,4942.548827900644,Basic,Credit Card,0,3,Love the variety of shows!,1,0.625,0,0.4375,Content Quality
+59,19.071514271429784,2272.0381284737296,Basic,Bank Transfer,1,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+54,33.0413978668296,334.3710199311168,Premium,PayPal,1,3,"Good content, but too expensive.",1,0.0999999999999999,0,0.0699999999999999,Service & Support
+32,75.34860274561606,286.3070563635291,Premium,PayPal,0,1,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+32,63.36666147329394,3756.415561661009,Premium,PayPal,1,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+24,19.199139780267963,3329.274117598036,Basic,Credit Card,1,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+41,92.6875470034672,4030.439734825178,Premium,Bank Transfer,0,3,"Good content, but too expensive.",0,0.0999999999999999,0,0.0699999999999999,Service & Support
+52,81.10761734116781,616.3009163687492,Basic,Debit Card,0,4,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+49,12.072034430887376,274.2972484741869,Premium,Bank Transfer,0,2,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+49,68.62304898894214,2592.0385182931345,Basic,Debit Card,1,3,Very slow and bad experience.,0,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+58,79.41220016677642,1999.2166342655707,Basic,Credit Card,1,4,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+52,43.69918327483799,2363.5399896876834,Standard,Credit Card,0,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+12,16.20293854304969,4958.783203464343,Premium,Debit Card,0,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+39,16.958895893990853,4856.674792586284,Premium,Debit Card,1,3,Very slow and bad experience.,0,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+2,19.38222694466285,4717.345409398645,Basic,Debit Card,1,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+3,85.63956687823806,3940.8291161616016,Basic,Bank Transfer,1,1,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+49,91.96175784301415,1838.7226652587628,Basic,Debit Card,1,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+37,21.052970366116043,2119.441558287581,Standard,Credit Card,0,4,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+49,31.231543113557308,2793.11861422273,Standard,Credit Card,1,1,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+56,24.89684593305608,4169.618836383716,Basic,PayPal,1,4,Great service!,0,1.0,1,1.0,Service & Support
+17,26.768879154470863,436.6928793395121,Premium,Debit Card,1,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+59,85.37417101022429,2179.054740835952,Premium,Bank Transfer,1,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+49,39.89317713894451,504.82655095041656,Standard,Bank Transfer,0,3,Great service!,0,1.0,0,0.7,Service & Support
+2,38.029983764107705,2621.822174210207,Standard,Bank Transfer,0,2,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+2,30.46560587894013,4504.614037630553,Basic,PayPal,1,5,"Good content, but too expensive.",1,0.0999999999999999,1,0.37,Service & Support
+28,64.71049544148329,3934.176130363296,Premium,Credit Card,1,5,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+54,44.1375128546994,1216.4278459612387,Basic,Bank Transfer,0,5,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+23,76.982468665896,4882.355163034083,Standard,Credit Card,0,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+37,28.50218275380737,3370.016950427499,Premium,PayPal,1,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+32,80.90108998430432,151.09572704727503,Premium,Debit Card,1,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+33,64.33493785571251,1351.5260749575757,Standard,Debit Card,0,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+1,20.284057005011896,1377.4951696075912,Basic,Debit Card,0,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+19,47.30541257832649,439.34610080071366,Basic,Bank Transfer,0,2,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+2,87.71663265516612,4803.149938572052,Premium,Debit Card,0,5,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+53,93.06642086186363,2443.4509434220263,Standard,Bank Transfer,0,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+44,51.91301100869319,4489.491527122222,Premium,PayPal,0,4,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+26,53.27532802801662,1678.8559668786788,Standard,PayPal,1,5,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+32,92.6609252445371,713.6444951208529,Basic,Bank Transfer,0,2,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+6,62.83614017229105,2424.246938540448,Standard,Credit Card,0,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+32,12.956200321909453,658.3875101001541,Basic,Debit Card,0,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+55,92.1474516591216,2481.4759645899458,Standard,Debit Card,0,3,Great service!,1,1.0,0,0.7,Service & Support
+4,32.34037984814367,4609.456187975098,Premium,Debit Card,1,3,Frequent buffering issues.,0,0.1,0,0.0699999999999999,Pricing & Value
+55,61.98687586823925,2651.7638949876423,Basic,Bank Transfer,1,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+11,24.896198568517644,3120.848661785909,Premium,PayPal,0,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+56,13.049124422193549,867.5283411716607,Premium,Debit Card,1,5,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+59,38.03258540194817,314.30456681185046,Basic,PayPal,1,4,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+17,80.24461367914789,642.9590146810544,Basic,Debit Card,1,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+38,34.98284553664763,3032.804720853392,Premium,Debit Card,1,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+24,29.808749267298737,565.5573250622929,Premium,Bank Transfer,1,3,Frequent buffering issues.,1,0.1,0,0.0699999999999999,Pricing & Value
+5,29.141270590710366,1942.365160712426,Premium,Credit Card,1,3,Great service!,0,1.0,0,0.7,Service & Support
+52,56.365631416613134,2795.450508244965,Premium,Bank Transfer,0,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+34,97.79871841144806,2004.3987132862503,Basic,Debit Card,0,2,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+6,51.30900892153117,902.0506271799773,Basic,Debit Card,0,4,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+22,60.15748320010431,1441.577406819122,Premium,Credit Card,0,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+11,87.45688161016605,4648.755910958027,Standard,PayPal,0,4,"Good content, but too expensive.",1,0.0999999999999999,1,0.37,Service & Support
+48,58.15627470402928,3412.313150373141,Standard,PayPal,1,4,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+16,26.601658427697046,2530.634409531444,Basic,Debit Card,0,3,Great service!,1,1.0,0,0.7,Service & Support
+33,36.96363205898294,162.30296093577823,Premium,PayPal,0,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+9,37.89432336417498,4962.835462398404,Premium,Debit Card,1,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+59,45.75863039118381,3390.129180983752,Basic,Credit Card,1,4,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+6,48.41100148030745,1652.9201389902305,Standard,Credit Card,0,3,Very slow and bad experience.,0,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+16,81.98038198668425,4408.416433989407,Standard,Debit Card,1,4,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+29,41.44482991443997,1366.3149394299087,Standard,Credit Card,1,5,Great service!,1,1.0,1,1.0,Service & Support
+3,52.14086455972414,2765.6812379954827,Basic,Bank Transfer,1,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+20,66.2478388345947,3216.746742276143,Standard,Bank Transfer,1,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+59,43.99533526961524,1183.2105201232694,Basic,Credit Card,0,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+36,85.29083319630996,4894.14666612292,Basic,Debit Card,1,3,Love the variety of shows!,1,0.625,0,0.4375,Content Quality
+19,62.87082438106669,3766.140339297088,Premium,Debit Card,0,2,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+26,36.46402112988744,2833.2848050042426,Standard,Credit Card,0,3,Affordable and good selection.,0,0.7,0,0.4899999999999999,Service & Support
+3,74.26532798108454,984.9135310589744,Basic,PayPal,1,5,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+19,57.48829571303072,363.905214290328,Standard,Bank Transfer,1,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+20,58.10103021315222,1668.293179352819,Standard,PayPal,1,4,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+32,53.29791535488273,3790.6179459756736,Premium,Debit Card,0,3,Affordable and good selection.,0,0.7,0,0.4899999999999999,Service & Support
+7,54.73107539391241,1419.7233616799228,Standard,Debit Card,1,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+52,78.88206529596165,2743.825480427975,Premium,PayPal,1,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+41,19.268333139818395,3666.9411659806415,Basic,Credit Card,1,4,Great service!,0,1.0,1,1.0,Service & Support
+33,40.09265301794339,628.9242017676753,Standard,PayPal,1,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+40,16.79530274235003,3457.96027896778,Basic,PayPal,1,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+39,77.79215986727057,550.167349779219,Standard,Bank Transfer,0,5,"Good content, but too expensive.",1,0.0999999999999999,1,0.37,Service & Support
+18,34.50716692482695,4829.135736422283,Basic,Bank Transfer,1,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+40,90.76873688369956,2493.131237318204,Standard,PayPal,1,1,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+1,57.39206199933644,838.3129277783992,Standard,PayPal,1,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+11,82.06747943375089,1777.6798165643777,Standard,Debit Card,0,3,Love the variety of shows!,0,0.625,0,0.4375,Content Quality
+28,98.10382920543653,2125.7406015467814,Standard,Bank Transfer,1,3,Love the variety of shows!,0,0.625,0,0.4375,Content Quality
+57,85.58099735109136,3815.106554275033,Standard,Bank Transfer,0,3,"Good content, but too expensive.",0,0.0999999999999999,0,0.0699999999999999,Service & Support
+25,88.02943840103711,3742.7765517753855,Standard,Debit Card,0,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+50,46.71860458283602,3098.508476152922,Standard,Credit Card,1,3,Price is too high for what you get.,0,0.16,0,0.1119999999999999,Pricing & Value
+23,59.655033573340575,619.0604915366155,Standard,Bank Transfer,1,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+31,32.84997076389739,842.6899207796006,Standard,Bank Transfer,1,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+30,27.650178972410757,559.4089111632275,Basic,Credit Card,0,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+42,55.49570911954304,2928.1466381089954,Premium,Bank Transfer,0,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+35,63.55440817303786,4397.97836340588,Standard,Bank Transfer,0,3,Customer support is unresponsive.,0,0.0,0,0.0,Content Quality
+7,40.53441213065719,2225.6225100483816,Premium,Credit Card,0,5,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+16,61.24991659871503,888.1560523929563,Standard,Credit Card,0,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+26,89.87144342621527,2834.4073932299384,Standard,PayPal,0,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+48,60.10494263050295,4077.585862641978,Basic,Debit Card,1,3,Price is too high for what you get.,1,0.16,0,0.1119999999999999,Pricing & Value
+57,74.8731786679456,3734.389101413357,Basic,Debit Card,1,3,Affordable and good selection.,0,0.7,0,0.4899999999999999,Service & Support
+52,82.47834706221145,4419.108820407605,Premium,Credit Card,0,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+49,98.98559037598984,1461.7202765194525,Basic,Credit Card,1,2,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+2,64.28776619592816,1050.3739496120968,Basic,Bank Transfer,1,4,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+1,82.61651340663273,4411.1007811155,Premium,PayPal,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+48,96.63843866993872,3322.045532612313,Basic,PayPal,0,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+12,94.9968753019546,1623.5517570370157,Standard,Credit Card,1,1,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+5,22.697366389994222,3737.505447805295,Premium,Bank Transfer,0,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+37,46.57530774461698,4094.080083953803,Premium,Bank Transfer,0,5,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+32,39.15910549961197,3113.3933776715485,Standard,Debit Card,1,1,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+59,17.82325134553144,3470.632138411584,Basic,Debit Card,0,5,Great service!,1,1.0,1,1.0,Service & Support
+55,66.99166974198644,1938.773531769065,Premium,Bank Transfer,1,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+9,76.23141518764021,2739.608769980892,Premium,Debit Card,1,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+41,86.33152859201951,2668.379936558195,Standard,Credit Card,1,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+35,21.049920069643765,4255.434176540783,Standard,Bank Transfer,1,1,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+19,88.87996682877645,4215.823503382694,Basic,Debit Card,1,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+48,67.86330072528278,4180.134299800511,Premium,PayPal,0,5,Great service!,1,1.0,1,1.0,Service & Support
+16,73.35515216246586,154.05490988608238,Basic,Bank Transfer,0,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+3,91.95616031862735,3772.772873897553,Basic,Bank Transfer,0,4,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+20,66.2285143938926,3817.514311543924,Standard,PayPal,0,1,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+24,40.22792714348516,3424.056231990195,Premium,Credit Card,1,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+54,84.25965982803937,3805.6968236681178,Premium,PayPal,1,1,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+56,42.67532909755815,4225.6548203338725,Premium,Bank Transfer,0,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+33,13.080529973847622,2404.5633650987497,Standard,Credit Card,1,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+24,84.75890559087247,2560.046046093391,Standard,Debit Card,0,2,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+52,41.067293039314805,711.0988788658134,Standard,Debit Card,0,2,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+11,79.64510708812062,1988.3418269320728,Standard,Debit Card,0,1,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+49,42.64821051993509,3252.4893815677437,Standard,Bank Transfer,1,3,Frequent buffering issues.,0,0.1,0,0.0699999999999999,Pricing & Value
+8,87.49612179772494,3923.958903121645,Premium,PayPal,1,1,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+36,29.755947257286284,1164.3245786869318,Basic,Credit Card,1,5,Great service!,0,1.0,1,1.0,Service & Support
+38,97.7092538678983,775.3322058802535,Premium,Debit Card,1,5,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+40,80.17828973092277,3348.905822052412,Basic,Credit Card,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+20,20.281413332835715,109.21142927206216,Standard,Bank Transfer,1,2,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+35,60.919895796990446,974.025663105916,Basic,Debit Card,1,3,Streaming quality is poor.,0,-0.4,0,-0.2799999999999999,Service & Support
+48,98.68305810175612,242.44976368537328,Premium,Bank Transfer,1,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+25,52.39589074244329,917.7370774888676,Premium,PayPal,0,3,Great service!,1,1.0,0,0.7,Service & Support
+35,26.389642493942493,988.4644716349756,Basic,Bank Transfer,0,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+25,53.63005304353116,1999.6006142769315,Standard,Bank Transfer,1,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+29,56.12118902937294,2071.402910964124,Standard,PayPal,1,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+18,76.7518249805799,4383.886105990165,Premium,Credit Card,1,1,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+46,72.8961267844814,2599.537591244244,Basic,PayPal,1,4,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+18,46.22950392372825,3644.683351500202,Standard,PayPal,0,5,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+2,29.622079674467784,610.2730538094085,Standard,Bank Transfer,1,5,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+54,68.05487509923965,1204.6499017720998,Premium,Credit Card,1,3,Streaming quality is poor.,0,-0.4,0,-0.2799999999999999,Service & Support
+35,47.95335410979536,3544.422860795516,Standard,Debit Card,1,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+16,21.904859001279736,358.73940629578766,Basic,PayPal,0,4,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+41,91.0515071112747,2484.32854499439,Premium,Credit Card,0,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+36,72.2099671848689,3036.907931748376,Premium,PayPal,1,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+33,71.48654708009332,3050.513655857157,Basic,PayPal,1,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+4,84.03254883205065,212.37077521340595,Premium,PayPal,1,4,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+33,57.6695510789573,1678.329220723009,Standard,PayPal,1,3,Streaming quality is poor.,0,-0.4,0,-0.2799999999999999,Service & Support
+14,83.35489855622114,3218.804190140854,Standard,Bank Transfer,1,2,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+21,54.82816781599052,830.0987071312928,Basic,Credit Card,0,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+48,16.045785992413908,3507.536676807461,Standard,Credit Card,0,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+20,46.47232792249199,3755.033523187005,Basic,Credit Card,0,5,Great service!,0,1.0,1,1.0,Service & Support
+56,54.77184045819016,4911.649033186112,Basic,PayPal,1,3,"Good content, but too expensive.",1,0.0999999999999999,0,0.0699999999999999,Service & Support
+8,74.81823234690663,1128.225774796406,Standard,Bank Transfer,0,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+7,19.59208571158069,4143.140271563965,Basic,PayPal,0,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+3,22.60166847944041,2649.453226901405,Standard,PayPal,0,3,"Good content, but too expensive.",1,0.0999999999999999,0,0.0699999999999999,Service & Support
+17,33.73154223711548,1929.9667211064495,Premium,Credit Card,1,1,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+33,33.9848554033794,699.6461108933719,Premium,PayPal,1,1,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+48,75.89661206131561,3703.977471788934,Basic,Debit Card,0,2,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+12,32.565759450543794,1255.7022358040667,Standard,PayPal,1,3,Price is too high for what you get.,1,0.16,0,0.1119999999999999,Pricing & Value
+59,66.97882570217028,1919.967809177924,Standard,Debit Card,0,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+51,54.48464651244443,406.45691179710536,Premium,PayPal,0,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+22,61.59649403614606,4026.6978875156433,Premium,Bank Transfer,0,4,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+55,85.42962668604662,3856.283767461052,Standard,Bank Transfer,0,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+22,46.394335139412185,3694.717567207331,Basic,Credit Card,1,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+46,79.38202393578435,1567.2732014102446,Premium,PayPal,1,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+30,47.98324535956186,950.0523639031904,Basic,Debit Card,1,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+38,41.84842389051245,3224.0109959041256,Basic,Debit Card,1,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+38,96.27644595818984,2531.215282154775,Premium,PayPal,0,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+45,26.59338286110669,973.4370878327436,Basic,Debit Card,1,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+51,18.130326451984708,3460.9652281443323,Basic,Bank Transfer,0,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+54,79.38873329819306,4956.519515924388,Standard,Debit Card,1,3,Customer support is unresponsive.,0,0.0,0,0.0,Content Quality
+8,16.142473481868244,3761.375979935985,Basic,Credit Card,1,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+27,85.33710916327264,3725.9332947594976,Standard,Bank Transfer,1,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+27,49.34740567215192,4756.532489359899,Premium,Bank Transfer,0,1,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+34,92.39623095627226,1094.3882011170208,Premium,Bank Transfer,0,4,Great service!,0,1.0,1,1.0,Service & Support
+21,74.9379575009715,2871.194828115058,Standard,PayPal,0,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+30,64.93642003071619,4900.268903666029,Premium,PayPal,0,4,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+33,95.43761173519891,909.9411437538552,Basic,Bank Transfer,1,4,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+28,45.69844357468489,3531.234601278153,Basic,PayPal,0,5,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+47,95.86782428856698,2970.46971526232,Basic,Debit Card,0,1,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+33,22.150114967908625,2973.7475517246644,Premium,PayPal,1,4,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+5,53.53794477391715,3518.5860748483683,Basic,PayPal,1,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+48,34.29201001529754,4655.122922090853,Premium,Bank Transfer,0,5,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+19,58.58585010173741,3934.651505271556,Basic,Credit Card,1,1,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+4,24.58124901024261,375.066906739429,Standard,Credit Card,0,2,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+35,85.73766942790391,4278.367297390985,Premium,Credit Card,1,4,Great service!,0,1.0,1,1.0,Service & Support
+49,86.17670643831015,1205.1525166360898,Premium,Debit Card,0,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+17,95.97126814511311,1946.8794072082223,Basic,PayPal,0,3,Love the variety of shows!,1,0.625,0,0.4375,Content Quality
+44,23.92049267949126,2362.4907867006727,Premium,Credit Card,0,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+28,66.09992958144917,2456.439403690041,Premium,Bank Transfer,0,4,Great service!,1,1.0,1,1.0,Service & Support
+30,52.68135778303326,2232.3839563512483,Standard,Credit Card,0,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+29,40.99453588398099,4693.031141657736,Standard,Credit Card,1,5,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+46,41.63861450207969,3559.4931375537203,Basic,PayPal,0,4,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+53,47.151419554607706,3192.736165187861,Standard,PayPal,0,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+6,73.44329947200578,344.2259361364136,Basic,PayPal,0,2,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+35,63.84574524413392,4529.175318275836,Basic,Debit Card,0,5,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+41,51.3713361485018,4556.011940841141,Basic,Debit Card,0,5,Great service!,1,1.0,1,1.0,Service & Support
+37,16.83400693326599,3923.044010807501,Premium,Credit Card,1,4,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+24,16.99888096710614,134.44309868673386,Standard,PayPal,1,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+29,10.210545156320045,380.67323028035446,Basic,Credit Card,0,5,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+49,97.0929449386378,1203.5961411155995,Standard,Bank Transfer,1,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+46,10.472843670254642,743.6120999100428,Basic,Bank Transfer,0,5,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+53,19.27843714123704,2054.2965455482745,Standard,PayPal,1,1,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+31,38.31369011284698,4620.852984630169,Standard,PayPal,1,3,Customer support is unresponsive.,1,0.0,0,0.0,Content Quality
+35,82.6687226635085,2413.096127565292,Basic,Bank Transfer,0,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+33,96.5888907187706,165.6728695176115,Premium,PayPal,1,5,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+52,81.10122029126705,1485.4538789359335,Standard,Debit Card,1,3,Price is too high for what you get.,1,0.16,0,0.1119999999999999,Pricing & Value
+21,72.15042092010765,318.5150510275115,Premium,Debit Card,0,3,Love the variety of shows!,0,0.625,0,0.4375,Content Quality
+32,56.91706006722124,277.8093508061606,Premium,PayPal,0,5,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+23,17.803469067596524,1451.027280168206,Basic,Bank Transfer,1,5,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+33,96.23537137035372,1450.5004595268326,Basic,Credit Card,1,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+3,78.25531725511134,3956.92035274786,Basic,PayPal,1,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+18,67.50544468008357,4876.689798627448,Standard,PayPal,0,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+25,78.31322609849649,1918.9147600609915,Basic,Credit Card,1,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+42,75.16929963458247,2201.545706419089,Basic,PayPal,1,4,"Good content, but too expensive.",1,0.0999999999999999,1,0.37,Service & Support
+31,67.35084218105382,4239.468237801505,Standard,Credit Card,1,5,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+54,98.25191201619892,1413.8811984680156,Standard,Bank Transfer,0,2,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+58,91.30274313724225,866.270841576895,Basic,Debit Card,0,4,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+3,68.19984272054471,4280.139154677887,Basic,Bank Transfer,0,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+40,72.38576903112323,327.8528735563209,Basic,Debit Card,0,4,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+46,14.6436225992839,3136.527256977137,Basic,Credit Card,1,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+24,70.29257180950353,2853.764952587353,Premium,Debit Card,0,4,Great service!,1,1.0,1,1.0,Service & Support
+50,13.974889393909017,1795.010192758302,Premium,Bank Transfer,1,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+32,62.94373812729379,1644.428653377059,Basic,Debit Card,1,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+47,99.94181496092514,3882.102858289944,Premium,Credit Card,1,2,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+22,60.02259232934617,523.4805927364778,Standard,Debit Card,1,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+23,52.58891062732,1260.2431156257885,Premium,PayPal,0,5,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+2,38.15693708550288,3688.99878600664,Premium,Bank Transfer,0,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+27,20.8470320907818,2786.770860259479,Basic,PayPal,0,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+42,75.79213043124534,727.1422218145733,Premium,Credit Card,0,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+2,27.333912500706735,4422.464509982095,Premium,Debit Card,0,4,Great service!,1,1.0,1,1.0,Service & Support
+26,20.37538191225559,2027.8944481615983,Premium,PayPal,1,1,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+17,47.95863937574613,4156.555039078647,Premium,PayPal,0,5,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+40,81.58076541631877,3959.7937760857726,Standard,Debit Card,0,2,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+33,77.05580933081984,3159.684687711467,Basic,Debit Card,0,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+9,14.939435318182744,2522.9575433459554,Basic,Bank Transfer,0,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+43,50.962931653254046,4899.799117870609,Standard,PayPal,1,2,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+54,57.0191118464052,810.3288546611035,Premium,PayPal,1,4,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+48,68.009198556324,3653.263065000463,Standard,Credit Card,1,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+39,68.51506153989052,1036.834437177466,Premium,Bank Transfer,1,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+29,42.82275245115753,1757.489216128507,Standard,Credit Card,1,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+42,60.46094746031626,1612.6238425286567,Basic,PayPal,0,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+55,53.29556954596778,4740.476339919743,Basic,Credit Card,1,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+26,89.6498520870953,4840.0452711625485,Basic,PayPal,1,3,Affordable and good selection.,1,0.7,0,0.4899999999999999,Service & Support
+35,57.72386193714102,996.775676750163,Premium,PayPal,1,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+50,49.69289455733455,207.9722854577705,Premium,Credit Card,0,5,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+25,46.403690471366566,3628.039394349254,Standard,Credit Card,0,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+24,61.51849834901192,2148.150675965373,Standard,Debit Card,1,3,Price is too high for what you get.,0,0.16,0,0.1119999999999999,Pricing & Value
+13,82.35792814608078,535.3172009290655,Basic,Debit Card,0,4,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+58,58.45613413427088,3450.395117327508,Premium,Debit Card,0,3,Frequent buffering issues.,0,0.1,0,0.0699999999999999,Pricing & Value
+7,69.54896575724874,2771.0170884774284,Standard,PayPal,1,1,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+57,76.40701902158725,4904.53242780542,Premium,Credit Card,0,4,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+36,56.81512988908587,1214.3065297207568,Premium,Bank Transfer,0,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+45,48.41353509893779,2079.4915940000865,Basic,PayPal,0,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+20,88.89988400762046,2758.474436637572,Basic,Bank Transfer,1,3,Love the variety of shows!,1,0.625,0,0.4375,Content Quality
+1,47.575547562510295,3979.329943421423,Premium,Credit Card,1,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+8,51.57485655180288,2789.3094179282875,Premium,PayPal,1,3,Love the variety of shows!,0,0.625,0,0.4375,Content Quality
+46,99.13071820075994,3103.210788223551,Premium,Bank Transfer,0,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+16,10.021377121829612,1208.1205527907098,Premium,Bank Transfer,1,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+14,26.692561861905023,4249.901767633944,Basic,Debit Card,0,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+12,44.55675009277532,2200.289680155331,Standard,Debit Card,0,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+51,93.93309184827277,790.7021748566694,Basic,Debit Card,0,3,Love the variety of shows!,0,0.625,0,0.4375,Content Quality
+23,16.302673517272392,3354.520781076545,Standard,PayPal,1,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+15,10.853689026564826,1158.8432206080067,Premium,Credit Card,1,4,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+28,14.741545237950572,578.0563001725687,Standard,Credit Card,1,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+34,17.968906955225634,4323.735851180934,Basic,Debit Card,1,3,Frequent buffering issues.,0,0.1,0,0.0699999999999999,Pricing & Value
+2,13.383709588563478,2354.795095993354,Basic,Debit Card,0,2,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+32,53.18031941708543,3771.490192209305,Premium,Debit Card,1,1,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+23,62.26814865045949,1523.87904305114,Basic,Bank Transfer,0,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+22,34.45182739621036,3956.153661096565,Premium,Debit Card,1,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+51,45.8458645578072,648.4860424054986,Basic,Bank Transfer,1,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+25,18.252940160028714,1844.2695315947783,Basic,Credit Card,1,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+58,40.27334174455798,4892.50290807029,Premium,PayPal,0,2,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+22,57.02672724710708,3990.54961020323,Standard,PayPal,0,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+58,75.90446264661806,2536.554058541972,Basic,PayPal,0,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+58,10.30117258386813,1764.909610653237,Standard,PayPal,0,2,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+22,52.05796898838873,4373.464930110135,Basic,Bank Transfer,0,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+49,36.7302588809394,2769.754019514127,Basic,Bank Transfer,1,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+52,86.75396395227112,3816.282587558645,Basic,Debit Card,0,1,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+42,74.39979837108177,3795.127633549204,Basic,Bank Transfer,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+6,63.01976810238054,187.93382498561,Standard,Debit Card,0,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+15,34.95390811270963,718.6435356838059,Standard,Debit Card,0,3,Love the variety of shows!,1,0.625,0,0.4375,Content Quality
+54,91.93051918517808,3332.183895334237,Basic,PayPal,1,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+43,14.059060949829083,891.9370753007701,Basic,Bank Transfer,0,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+37,19.852083881120365,1351.917388812463,Standard,Bank Transfer,1,3,"Good content, but too expensive.",0,0.0999999999999999,0,0.0699999999999999,Service & Support
+33,45.24671264863205,4738.525975578075,Premium,Debit Card,1,3,Affordable and good selection.,1,0.7,0,0.4899999999999999,Service & Support
+8,21.19938015671707,2844.8930660370684,Premium,Debit Card,1,5,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+53,96.07741278034824,3778.574584296801,Standard,Credit Card,0,3,Affordable and good selection.,0,0.7,0,0.4899999999999999,Service & Support
+44,81.8190389929045,2834.105620034936,Basic,Credit Card,1,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+44,33.30843864416323,2807.3167124353536,Basic,Debit Card,0,5,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+5,62.96988060759208,561.3443596159198,Premium,Credit Card,0,3,Very slow and bad experience.,0,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+39,98.40974635720734,1783.9496437846049,Premium,Credit Card,0,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+4,89.57790803183526,1483.9114035639077,Standard,Debit Card,0,4,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+6,64.07186017979782,2014.5689915067048,Premium,Debit Card,0,3,"Good content, but too expensive.",0,0.0999999999999999,0,0.0699999999999999,Service & Support
+45,91.33515704577434,4011.886522299209,Standard,Bank Transfer,1,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+32,99.0266418832023,1922.470072792638,Premium,Debit Card,1,5,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+52,76.90175406042617,2313.3144142352453,Premium,Debit Card,0,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+30,15.848776853460462,2047.1688133780508,Premium,PayPal,1,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+47,46.142221278293874,557.6990626789484,Basic,Bank Transfer,0,4,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+35,85.40431617549208,2261.25357542884,Basic,Bank Transfer,1,3,"Good content, but too expensive.",1,0.0999999999999999,0,0.0699999999999999,Service & Support
+55,30.75122762245171,1058.4854379181238,Basic,Bank Transfer,1,3,"Good content, but too expensive.",1,0.0999999999999999,0,0.0699999999999999,Service & Support
+40,84.75782659755622,1014.9441492879032,Premium,PayPal,1,3,Streaming quality is poor.,0,-0.4,0,-0.2799999999999999,Service & Support
+52,20.830488583149634,560.7769117279051,Standard,Debit Card,1,5,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+16,14.22508214330317,1847.6877732946475,Standard,Bank Transfer,1,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+13,44.56815503421246,3811.661235468145,Standard,Bank Transfer,0,1,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+50,13.305874368395228,1454.5642838586407,Standard,Credit Card,0,3,"Good content, but too expensive.",1,0.0999999999999999,0,0.0699999999999999,Service & Support
+42,96.1543236684993,1630.5105992390163,Basic,Bank Transfer,1,4,Great service!,0,1.0,1,1.0,Service & Support
+30,84.35851262145692,3249.1058225948755,Basic,Debit Card,0,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+19,82.06927184168876,1059.6199816759026,Premium,Debit Card,1,3,Frequent buffering issues.,0,0.1,0,0.0699999999999999,Pricing & Value
+17,66.68001306965378,4495.093859075319,Premium,Credit Card,0,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+56,29.469162073289816,2648.933563932617,Standard,Bank Transfer,1,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+19,56.6434330008753,2293.254407569063,Basic,Bank Transfer,1,5,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+28,63.75466651873069,2833.3189404530867,Standard,Bank Transfer,1,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+58,57.25283507742414,913.5681357393578,Premium,PayPal,0,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+55,33.42100311563746,3106.018379331964,Premium,Bank Transfer,0,4,Great service!,0,1.0,1,1.0,Service & Support
+26,56.37231318832533,1879.1936095066512,Standard,Debit Card,1,5,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+37,54.20677067817639,4496.213070726632,Premium,Debit Card,1,1,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+26,99.6702198226052,927.385612720662,Standard,PayPal,0,3,"Good content, but too expensive.",0,0.0999999999999999,0,0.0699999999999999,Service & Support
+53,90.76925332415834,2584.5504089406613,Basic,PayPal,0,1,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+23,51.7042673394058,3030.751883908188,Standard,Bank Transfer,0,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+9,66.06436446416069,263.579648753268,Basic,Credit Card,0,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+12,77.30844436830057,1882.0963113050875,Basic,PayPal,0,3,"Good content, but too expensive.",1,0.0999999999999999,0,0.0699999999999999,Service & Support
+53,13.137864421044242,3689.912650034081,Premium,PayPal,1,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+1,90.5429297105056,4119.849786499969,Premium,Bank Transfer,0,3,Frequent buffering issues.,1,0.1,0,0.0699999999999999,Pricing & Value
+58,87.41141347761314,1634.4937746046835,Premium,Bank Transfer,1,4,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+58,51.168888799633656,4013.107034675481,Standard,PayPal,1,5,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+1,45.20527894723418,4842.003797806606,Standard,Credit Card,0,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+47,34.566343737068344,4298.682286767961,Premium,PayPal,0,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+34,52.90091454973316,676.4555419806935,Standard,Bank Transfer,1,4,"Good content, but too expensive.",1,0.0999999999999999,1,0.37,Service & Support
+32,13.99389971799131,3724.678627219149,Premium,Bank Transfer,0,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+54,86.6974180012307,1666.3674789586692,Standard,PayPal,1,2,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+48,13.188013157669056,4943.238348119175,Basic,Credit Card,0,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+25,39.61462288328839,2478.2590174834468,Basic,PayPal,0,2,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+40,93.8430539487091,699.926101958811,Premium,PayPal,0,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+45,76.16913890711075,3653.409185334215,Standard,Bank Transfer,1,2,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+53,35.32518645197741,1682.7548720924478,Standard,Credit Card,0,4,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+1,32.73841845647966,4985.682969700142,Basic,Debit Card,1,3,Price is too high for what you get.,1,0.16,0,0.1119999999999999,Pricing & Value
+16,10.457392583622337,4900.934043487157,Basic,Credit Card,0,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+39,72.61428635647752,3315.056688300845,Premium,PayPal,1,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+5,14.390522350585575,736.1495998634161,Basic,PayPal,0,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+22,57.93422674606859,3465.6188886076425,Premium,PayPal,1,5,Great service!,1,1.0,1,1.0,Service & Support
+29,96.59097753328447,555.8493836541334,Basic,Credit Card,1,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+55,19.85219740490085,243.88437960172237,Basic,Bank Transfer,1,1,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+3,90.50319378712608,4132.496386485282,Standard,PayPal,1,5,Great service!,0,1.0,1,1.0,Service & Support
+12,99.23278016305431,1127.7894436500387,Basic,PayPal,1,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+26,15.536532361531156,1957.2329184735768,Basic,Credit Card,1,2,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+16,89.46156422237152,4869.9412108832485,Premium,Debit Card,0,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+51,56.4471118399255,1750.518459119406,Basic,Debit Card,1,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+37,91.5862347500122,1552.7999282882447,Premium,Bank Transfer,1,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+22,61.41870477276167,4599.219198151599,Basic,Bank Transfer,1,2,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+57,69.59008090959082,642.6673820628947,Basic,PayPal,0,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+29,58.940101719765934,3821.953809561696,Premium,Credit Card,0,5,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+14,87.80435922766137,4941.5212765985925,Standard,PayPal,0,5,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+28,76.05189270583315,4516.350452795779,Premium,Bank Transfer,1,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+5,56.91342809623734,3293.172801661487,Premium,Credit Card,0,3,Affordable and good selection.,1,0.7,0,0.4899999999999999,Service & Support
+47,88.13447236463922,1638.8978954643867,Premium,Credit Card,0,2,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+49,32.07569790298011,1346.177707773752,Standard,Bank Transfer,1,1,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+30,24.16065937322734,4114.35001387016,Basic,Debit Card,1,5,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+46,24.436009479706488,4411.127378363307,Premium,Debit Card,0,1,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+52,40.06079908707141,2674.631071473895,Premium,Credit Card,1,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+5,31.482102817091576,1297.265709853684,Standard,PayPal,1,4,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+12,93.70813154587648,653.4217212147504,Premium,Debit Card,1,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+16,19.52506844457256,527.1793923759727,Basic,PayPal,1,5,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+26,72.90916642356288,3623.479492033892,Standard,Debit Card,0,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+26,27.02993858065053,2158.581766453852,Basic,Debit Card,1,3,Price is too high for what you get.,1,0.16,0,0.1119999999999999,Pricing & Value
+48,89.34734194933151,4536.263383961565,Basic,PayPal,0,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+21,96.51837593664166,3724.389373561142,Standard,Bank Transfer,0,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+39,51.89230078929853,1037.1760477814748,Premium,Debit Card,0,2,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+36,89.11643322053185,3107.509352196925,Basic,Debit Card,0,1,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+33,10.46306536792433,2233.976726550981,Basic,PayPal,1,3,Price is too high for what you get.,0,0.16,0,0.1119999999999999,Pricing & Value
+30,83.79522256672901,2928.523680766204,Basic,Bank Transfer,1,1,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+37,30.57626453724312,3716.538704358734,Basic,Debit Card,1,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+23,91.78311783424311,4050.359816918575,Standard,Debit Card,0,2,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+58,10.100810033209854,4234.312899392949,Standard,Bank Transfer,0,4,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+10,60.05635615357813,1344.4768854029212,Basic,Debit Card,0,5,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+54,78.09722234064412,252.46643959505263,Premium,Bank Transfer,1,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+5,33.28194976281172,3722.544202307389,Basic,Bank Transfer,0,1,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+36,27.38195781285637,621.0842586532955,Premium,PayPal,1,1,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+34,17.56884020211862,1643.1059842035415,Basic,Credit Card,1,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+52,39.37902188529637,118.703957209301,Premium,Bank Transfer,1,5,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+31,60.38598810779465,3440.1804637679384,Basic,PayPal,1,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+10,20.42594711022319,918.9468562089842,Premium,Credit Card,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+58,43.90258257881189,3310.883807489125,Basic,Debit Card,1,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+19,10.816516418745246,4959.53882412241,Basic,Credit Card,0,5,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+58,83.68114784498576,456.0872708890798,Premium,Bank Transfer,1,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+32,21.560384628387222,477.68225856215736,Standard,Bank Transfer,0,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+1,35.50086534390235,1767.862454066707,Premium,Bank Transfer,0,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+56,11.658494686439573,4345.293919831576,Standard,Bank Transfer,1,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+5,48.90167055032611,1156.096357077526,Basic,Bank Transfer,1,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+45,85.61093524670969,1865.851317658703,Premium,PayPal,1,1,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+4,45.29360903006769,435.6764924721999,Premium,Bank Transfer,0,3,Love the variety of shows!,1,0.625,0,0.4375,Content Quality
+16,26.154759108145004,3839.460927168558,Premium,PayPal,1,4,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+24,77.83289506454673,2100.7010795213105,Standard,Debit Card,1,2,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+16,80.99262836836698,3820.31879199813,Standard,Bank Transfer,0,5,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+55,25.637812777681013,4527.678437299296,Basic,Bank Transfer,1,3,Price is too high for what you get.,1,0.16,0,0.1119999999999999,Pricing & Value
+2,79.37686976868908,1240.539420796315,Standard,Credit Card,0,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+49,95.25680994307042,4056.2405486657617,Standard,Debit Card,1,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+28,24.97398282390451,389.56006138344105,Basic,Bank Transfer,0,1,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+32,79.3885863278922,4504.352202083212,Premium,Bank Transfer,0,1,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+27,73.77148041423663,3288.765883037862,Premium,Debit Card,1,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+20,52.62164995915796,4383.710948277922,Basic,PayPal,0,4,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+24,15.212841450291847,100.9231578272513,Premium,Bank Transfer,1,4,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+12,16.72249759820686,928.4972447443632,Standard,Credit Card,1,5,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+50,86.71731932787829,2009.8209983898112,Basic,Bank Transfer,0,2,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+35,99.11335354755823,1959.5642265361207,Basic,Credit Card,1,3,Love the variety of shows!,1,0.625,0,0.4375,Content Quality
+33,70.8447031468079,1210.9788763252022,Basic,Credit Card,0,3,Price is too high for what you get.,1,0.16,0,0.1119999999999999,Pricing & Value
+33,50.136247630928935,1969.8985053492804,Premium,Bank Transfer,0,3,Great service!,0,1.0,0,0.7,Service & Support
+51,68.28162790617168,731.3586888012486,Basic,Bank Transfer,0,1,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+43,63.49562733056908,2122.529533403528,Basic,Credit Card,0,4,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+37,44.52510343650596,4031.5362128803945,Basic,Debit Card,0,2,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+12,15.906353011661166,2447.443309206421,Premium,Debit Card,0,1,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+3,83.93616526666969,188.20043583155345,Standard,Bank Transfer,0,4,Great service!,0,1.0,1,1.0,Service & Support
+1,43.46501763148521,2165.0758037383125,Basic,PayPal,0,4,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+33,83.69070790213843,233.1575788451364,Standard,Debit Card,1,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+40,32.7257874719544,4834.592712463311,Premium,Bank Transfer,1,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+10,10.092653186107006,724.524401172058,Premium,Debit Card,0,2,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+43,24.304445494908087,3567.672799020032,Premium,PayPal,1,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+44,52.16854750917259,4866.60398217122,Premium,Bank Transfer,1,5,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+29,94.98732714620468,4147.591353166203,Standard,PayPal,1,2,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+13,19.19742577243471,3526.645338118398,Basic,Bank Transfer,1,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+12,86.87887970154094,4213.358456553758,Premium,PayPal,1,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+31,57.43216865906759,4910.813596977076,Premium,Debit Card,1,5,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+46,84.3328689219907,3144.588036542295,Standard,Debit Card,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+2,36.85369878909934,2840.0055534637,Standard,PayPal,1,5,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+51,85.59524482052247,3178.366741270079,Premium,PayPal,1,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+50,79.55405020151241,2710.1118451316192,Basic,PayPal,1,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+35,30.704831472829053,3211.936618957622,Basic,Bank Transfer,1,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+23,21.820161376844027,2304.2268190655404,Premium,Debit Card,0,3,Streaming quality is poor.,0,-0.4,0,-0.2799999999999999,Service & Support
+17,88.12488902790636,1170.3715961282048,Standard,Bank Transfer,0,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+26,96.69129880961188,689.2114099072106,Premium,Debit Card,0,2,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+8,12.81720823727646,434.870584108076,Premium,Credit Card,0,2,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+29,75.8143060276317,1390.2473403906804,Standard,Bank Transfer,1,4,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+26,91.85720598530364,326.0054652450958,Premium,Debit Card,0,3,Price is too high for what you get.,1,0.16,0,0.1119999999999999,Pricing & Value
+10,87.16240828832488,2879.1368216049896,Premium,Debit Card,0,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+26,96.80684250431877,1490.7593904152493,Premium,Bank Transfer,0,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+34,78.40846705942874,4140.2205596264575,Standard,Bank Transfer,0,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+51,49.80688861428192,463.7802776430936,Basic,Debit Card,1,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+41,38.07567914456174,1209.122322273281,Basic,Bank Transfer,0,4,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+7,38.86684663943147,3678.206120741715,Standard,PayPal,1,1,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+4,75.19804053527052,3034.160652279108,Basic,Bank Transfer,0,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+58,77.12533108278679,416.00722912092095,Premium,Bank Transfer,1,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+53,28.03232291938414,4398.473340094782,Basic,Bank Transfer,1,3,Affordable and good selection.,1,0.7,0,0.4899999999999999,Service & Support
+50,88.13105321414778,4398.58263784828,Premium,Debit Card,0,5,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+45,74.34316361820228,1718.999218991292,Basic,PayPal,0,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+11,60.64752577090444,1767.988632412867,Standard,Credit Card,0,2,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+29,52.43792140922614,4946.238955915852,Basic,Credit Card,0,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+56,58.89095252109623,3168.2632408063773,Basic,PayPal,1,3,Affordable and good selection.,0,0.7,0,0.4899999999999999,Service & Support
+36,24.332116445133803,2703.4509507834896,Basic,PayPal,1,4,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+25,28.33311243486468,4206.945699404429,Standard,PayPal,0,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+21,18.20480413655725,1497.9226579508504,Basic,Debit Card,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+57,23.829223434500143,2202.994707642149,Standard,Credit Card,1,3,"Good content, but too expensive.",0,0.0999999999999999,0,0.0699999999999999,Service & Support
+36,50.83242711447544,1412.1057098928377,Premium,PayPal,0,4,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+10,57.73189543554305,3966.888148284784,Basic,Debit Card,1,3,Streaming quality is poor.,0,-0.4,0,-0.2799999999999999,Service & Support
+37,11.607570323048744,2909.411793612568,Standard,Credit Card,0,1,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+9,81.71180450776248,3328.2428436863456,Standard,Bank Transfer,1,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+24,36.47511760091301,1336.3055242130922,Basic,Debit Card,1,1,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+35,92.065243146392,1179.103976748844,Premium,Credit Card,1,3,Love the variety of shows!,0,0.625,0,0.4375,Content Quality
+49,97.07601372524,2493.0356820164,Standard,Debit Card,1,1,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+35,26.69129872089889,3714.0721705548513,Basic,Credit Card,1,4,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+48,51.588756168909455,2673.674811848785,Premium,Credit Card,0,3,Love the variety of shows!,1,0.625,0,0.4375,Content Quality
+36,10.11086516497833,259.96381997377614,Standard,Bank Transfer,1,5,Great service!,1,1.0,1,1.0,Service & Support
+18,63.849453861018425,4355.902380969415,Standard,Debit Card,0,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+49,64.6575803436404,416.9657782241447,Premium,PayPal,1,4,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+39,32.278596004303765,4783.539970231686,Premium,Bank Transfer,1,5,Great service!,0,1.0,1,1.0,Service & Support
+32,60.25714053248782,223.19559555863637,Basic,Bank Transfer,0,3,Customer support is unresponsive.,0,0.0,0,0.0,Content Quality
+24,30.29861281993619,3502.807235040473,Basic,Credit Card,0,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+23,24.474292217037107,502.8146121877301,Standard,PayPal,0,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+32,68.63675201220383,4562.315239232184,Premium,Debit Card,0,2,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+37,39.33329175568674,2375.7228575051595,Premium,PayPal,1,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+12,63.12375449970602,773.8664966033754,Premium,PayPal,0,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+49,48.992207407449,1769.9969289702483,Standard,PayPal,1,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+55,98.59162666626136,907.640909199134,Premium,PayPal,0,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+13,23.46225784008092,935.851366629741,Premium,PayPal,0,1,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+23,51.81387369722292,4745.730768840067,Standard,Credit Card,1,3,Affordable and good selection.,1,0.7,0,0.4899999999999999,Service & Support
+25,71.24109637233927,2281.705950195462,Basic,Credit Card,1,3,Great service!,1,1.0,0,0.7,Service & Support
+35,45.599057549197184,3965.131093136262,Basic,Bank Transfer,0,1,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+41,97.72298666836208,3234.067249770641,Standard,Credit Card,1,4,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+30,74.96988651342416,3414.489175458122,Premium,Bank Transfer,1,2,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+17,69.12854718080438,745.2978485129887,Standard,Bank Transfer,1,3,"Good content, but too expensive.",0,0.0999999999999999,0,0.0699999999999999,Service & Support
+49,78.1353340850101,1247.5037893958795,Basic,Debit Card,1,2,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+20,95.73837742348454,3955.076642256741,Basic,PayPal,1,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+48,91.7036787686176,4856.754411726436,Standard,Credit Card,1,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+25,75.18567773137707,1387.1106487333934,Standard,Debit Card,1,4,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+22,77.42454751911548,1430.6869472800954,Basic,Credit Card,1,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+13,23.13298666316309,2417.1959507734337,Standard,Bank Transfer,0,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+59,19.25131640433991,4920.817532991646,Basic,Credit Card,1,5,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+19,61.38140516597479,1417.8988345497082,Standard,PayPal,0,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+49,11.6530873246486,2094.1623572078934,Standard,Bank Transfer,1,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+36,53.41207433964324,4468.252076555184,Standard,Bank Transfer,1,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+12,28.931462192698174,114.31305984467384,Basic,Debit Card,1,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+41,41.141491088035565,294.8532284439908,Standard,PayPal,1,5,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+19,79.82242622136604,3059.9512176489743,Basic,Bank Transfer,0,5,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+12,94.7113753809148,4546.16280709295,Basic,PayPal,0,4,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+9,16.517464493170735,1270.3976359694454,Standard,Credit Card,1,3,Great service!,0,1.0,0,0.7,Service & Support
+7,58.08179853788006,2401.2446959354743,Standard,PayPal,0,5,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+28,89.428013723764,2307.27997812331,Basic,Bank Transfer,1,2,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+14,17.425768099637914,2417.559595868,Basic,Debit Card,1,4,"Good content, but too expensive.",1,0.0999999999999999,1,0.37,Service & Support
+31,84.20626422071504,3150.346509075752,Premium,Bank Transfer,0,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+52,42.202121583544425,2401.7444386543502,Basic,PayPal,0,4,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+19,38.98852319974018,2292.5938924800435,Premium,PayPal,1,2,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+58,97.97197476833072,2424.0132601131763,Premium,Bank Transfer,1,3,Customer support is unresponsive.,0,0.0,0,0.0,Content Quality
+47,28.077318087606475,2995.2504622281035,Premium,PayPal,0,1,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+16,72.3874546740413,2731.336692921656,Standard,Credit Card,1,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+53,83.92966552088798,4285.266388487471,Standard,Bank Transfer,0,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+5,13.70651457513445,342.53458211896645,Basic,Debit Card,1,4,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+35,70.3346912518971,4183.253650217761,Premium,Bank Transfer,1,5,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+12,95.63949769197944,4235.230601797448,Standard,Credit Card,0,4,Great service!,0,1.0,1,1.0,Service & Support
+25,21.17979700552534,1496.0493055017082,Standard,Credit Card,0,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+52,90.65991724165345,2367.974579577668,Standard,Credit Card,0,5,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+59,63.52989736392425,2248.838593833434,Standard,Credit Card,1,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+21,65.49441236762266,1170.6981883352385,Standard,Credit Card,1,3,Frequent buffering issues.,1,0.1,0,0.0699999999999999,Pricing & Value
+36,65.16497573790454,2044.3045507229504,Premium,Debit Card,1,2,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+53,36.89522977035824,317.5000836371867,Premium,PayPal,1,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+23,94.16816337695136,1461.3281566304986,Premium,Credit Card,0,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+16,95.26154163679348,4101.742659708519,Premium,Credit Card,1,5,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+57,66.2774194192553,1494.355278638198,Basic,Bank Transfer,1,1,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+39,80.50804533474532,4109.212676866413,Premium,Debit Card,1,5,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+45,65.10321872930422,2704.837376561711,Standard,Debit Card,0,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+53,53.59586028166365,4411.327119069684,Premium,PayPal,1,1,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+42,69.47381064693256,2916.419815895634,Basic,Debit Card,1,4,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+58,59.77013073327626,245.3742930172251,Standard,Bank Transfer,0,1,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+39,63.77282763687371,3409.559016980737,Premium,Bank Transfer,1,5,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+14,80.54492980769757,319.7824833154864,Premium,PayPal,1,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+31,53.28134483040864,2307.9253930173563,Premium,Bank Transfer,0,3,Customer support is unresponsive.,1,0.0,0,0.0,Content Quality
+58,13.66786954832255,4654.190802918259,Standard,Credit Card,1,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+5,24.75995328905475,909.4993027554658,Standard,Credit Card,1,5,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+35,49.47464948405845,2010.374529413566,Basic,Bank Transfer,1,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+23,75.23439038866525,3676.315513357544,Standard,PayPal,0,2,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+29,63.39507834791608,4423.066924864754,Standard,Debit Card,1,5,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+43,68.52647672861085,3387.6207232382885,Premium,PayPal,1,4,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+11,53.135103571865855,1365.0489455367292,Standard,Debit Card,0,3,Customer support is unresponsive.,0,0.0,0,0.0,Content Quality
+18,65.41678197480185,3405.578479289459,Premium,Bank Transfer,0,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+47,39.6115694033196,1553.965441410041,Premium,Bank Transfer,1,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+12,52.31643334269986,3620.303226111803,Standard,Credit Card,1,4,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+9,76.985115903546,4774.762325166699,Basic,Debit Card,1,5,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+10,88.4649501075809,3634.8279104208127,Basic,PayPal,1,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+58,49.028980056075,4328.1144642708205,Standard,Bank Transfer,0,1,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+44,13.929549193662506,110.30883156182873,Basic,PayPal,1,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+17,24.55052897321224,3616.103411184813,Premium,Credit Card,0,5,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+38,11.87750253623843,4164.979028639727,Premium,Debit Card,0,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+7,68.79367173135971,298.737813968939,Standard,Debit Card,1,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+46,39.9083162819598,4370.82886371233,Basic,Bank Transfer,1,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+13,58.82307721474307,1357.8017187192247,Basic,Debit Card,0,5,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+40,54.394916210541965,3359.9312996924705,Premium,Bank Transfer,0,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+42,17.337384059718403,4021.738907214693,Standard,Credit Card,1,3,Customer support is unresponsive.,1,0.0,0,0.0,Content Quality
+9,46.293522501144864,3347.056113990842,Basic,Debit Card,0,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+50,29.85050124300909,552.1954811589605,Standard,Bank Transfer,1,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+27,47.65598098008874,3021.975442415805,Basic,PayPal,1,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+58,28.32204523080184,2792.959917938504,Premium,Bank Transfer,0,1,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+2,85.64071656492402,4511.57421356393,Premium,Debit Card,0,1,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+5,25.677400292042822,2080.774675256625,Standard,Credit Card,1,1,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+29,96.47024963382792,1673.2973757265456,Premium,Debit Card,0,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+37,47.431662953224674,3774.2687457386846,Basic,Debit Card,1,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+38,86.16207628171443,2122.109097808644,Premium,Bank Transfer,1,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+19,66.58883363853505,3265.8712575248087,Standard,PayPal,1,3,Price is too high for what you get.,0,0.16,0,0.1119999999999999,Pricing & Value
+8,76.18152687991774,3267.605441610574,Standard,Debit Card,0,1,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+48,79.09514992601022,4451.391415364577,Standard,PayPal,1,1,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+45,55.4360393703716,3033.592771363577,Basic,Bank Transfer,1,5,Frequent buffering issues.,1,0.1,1,0.37,Pricing & Value
+1,58.89704710269596,2560.552688813736,Basic,PayPal,1,4,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+22,56.25962810278525,780.4694993429333,Basic,Bank Transfer,1,2,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+52,62.925254028107126,667.1142727256563,Basic,Credit Card,1,2,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+17,12.645500118085655,856.175669887089,Basic,PayPal,1,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+7,45.59636528641137,942.0575585027632,Premium,PayPal,1,4,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+25,64.55698422050544,3225.597754051806,Basic,Credit Card,1,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+45,63.79512087302779,3730.808126345434,Basic,PayPal,1,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+4,81.36604851450684,2696.958462339452,Premium,Credit Card,1,1,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+36,68.95084049488977,4162.186889472906,Basic,Debit Card,1,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+6,99.29199847066052,4957.189810994802,Standard,Bank Transfer,0,2,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+31,35.54690757477805,4118.061882684844,Basic,Credit Card,1,3,Price is too high for what you get.,0,0.16,0,0.1119999999999999,Pricing & Value
+19,42.32359266996083,3504.9236310122,Basic,PayPal,1,2,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+44,44.54624366810167,2709.2142272420183,Standard,Credit Card,1,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+54,51.92315263182237,2299.38005120607,Standard,PayPal,0,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+39,85.23982574030885,513.5226646682574,Standard,Debit Card,1,1,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+27,31.22128845632889,2056.906867133985,Standard,Credit Card,0,3,Customer support is unresponsive.,1,0.0,0,0.0,Content Quality
+10,79.84001863318865,4559.659720232457,Basic,Debit Card,1,4,Great service!,0,1.0,1,1.0,Service & Support
+26,46.4779164777169,4059.3108865421095,Standard,Bank Transfer,1,1,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+19,64.16698452958076,1158.651688557267,Standard,PayPal,0,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+39,66.92864799036755,2386.378145016358,Premium,PayPal,1,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+3,43.5563773470041,4101.943692536868,Standard,Debit Card,0,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+45,56.13536846852247,430.1843184490604,Standard,Bank Transfer,0,2,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+13,47.17280571829273,1998.2236697764304,Premium,Credit Card,1,4,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+50,16.22195075679575,4274.022060682343,Premium,Credit Card,1,2,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+28,49.34488499351439,2079.099534433606,Basic,PayPal,1,5,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+58,18.765405329819696,480.3117591840602,Premium,Debit Card,1,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+20,46.451871917228935,2758.4184058080323,Basic,Debit Card,0,4,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+28,63.36265598486037,4322.538225099647,Premium,Credit Card,0,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+8,62.14734094091507,2992.3991604704825,Premium,Bank Transfer,1,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+41,69.63591511074884,1208.767630249736,Basic,Bank Transfer,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+39,18.573535715916364,1982.7741386731689,Premium,Credit Card,0,2,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+1,68.69109209773941,2305.604469791468,Basic,Credit Card,1,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+3,38.09332510268024,2938.405133720581,Premium,Debit Card,0,5,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+13,45.91413515234,3820.820026187804,Standard,Bank Transfer,0,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+28,87.21876285304351,584.4807264391135,Premium,Credit Card,1,5,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+57,10.812736371659522,4459.294961786075,Basic,Credit Card,0,1,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+49,62.95713700065449,160.31754477877038,Premium,PayPal,1,5,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+25,63.88425820900968,1913.2564399038504,Basic,Credit Card,0,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+56,45.69937987092058,234.3595188660225,Basic,Credit Card,1,1,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+33,31.332507139750252,2025.5737041919272,Standard,Bank Transfer,0,5,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+38,31.1206634435396,2676.4817344792864,Standard,Debit Card,0,1,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+53,89.53387026946773,2607.2387942494074,Basic,Bank Transfer,1,2,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+6,49.78219364045718,911.5789004385002,Premium,Debit Card,1,1,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+58,39.78004266902548,3264.1284994685,Basic,PayPal,1,4,Great service!,0,1.0,1,1.0,Service & Support
+44,50.38998164482627,319.41440747287425,Basic,Credit Card,1,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+45,70.24513613134252,3833.3434186488353,Premium,PayPal,0,4,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+32,23.11809114202765,4738.557726568377,Premium,Debit Card,0,1,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+45,50.44904516923639,1764.8672530404776,Premium,Bank Transfer,0,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+47,62.90959339993483,2634.4729704002266,Premium,Bank Transfer,1,5,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+21,95.37250193662904,1956.6603624881905,Basic,PayPal,0,2,Frequent buffering issues.,0,0.1,-1,-0.2299999999999999,Pricing & Value
+16,32.72750038678773,132.88091248989377,Basic,Debit Card,0,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+54,42.3325673124621,1990.785064186068,Standard,PayPal,1,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+21,44.14227309301814,3979.4292703805977,Basic,PayPal,1,5,Great service!,1,1.0,1,1.0,Service & Support
+11,64.49843418803945,3020.345326699061,Premium,Credit Card,0,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+37,42.10588477360015,596.1735816142788,Standard,PayPal,1,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+36,58.016073276972605,4250.983499499547,Premium,Credit Card,0,5,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+35,80.36112968605265,2702.31818993769,Basic,Credit Card,0,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+19,73.48470347009832,4224.444472548913,Standard,Bank Transfer,1,5,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+20,50.1731781861327,2943.085442046644,Premium,Credit Card,0,1,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+57,87.7794559906752,2842.473379705905,Standard,Credit Card,1,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+18,60.23262246344766,615.7700074653607,Standard,Bank Transfer,1,2,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+47,58.59152555519913,920.062692379277,Basic,PayPal,0,4,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+41,13.076898934524236,4862.9237568332965,Premium,Debit Card,0,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+49,98.80236823214454,1219.5850590983766,Standard,Debit Card,0,5,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+14,21.06737276766641,4889.515378152802,Standard,Debit Card,1,2,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+15,30.801782118488195,2706.3722619688906,Premium,PayPal,0,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+31,14.652715351737427,765.3663306132919,Standard,Credit Card,1,1,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+1,67.60026701532223,586.5807934930954,Standard,Debit Card,1,1,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+53,30.2231059275412,1123.4339464581258,Standard,PayPal,0,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+54,26.200939372545115,4635.622917124146,Premium,Credit Card,1,4,"Good content, but too expensive.",1,0.0999999999999999,1,0.37,Service & Support
+54,17.970002580091723,2129.336099208311,Premium,Bank Transfer,0,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+3,19.29780614116141,2037.6279131652805,Premium,Debit Card,0,3,Very slow and bad experience.,0,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+16,62.62036303983299,1634.7106792438526,Premium,Credit Card,0,4,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+23,71.93870792799359,820.6030677762831,Basic,Debit Card,0,3,Affordable and good selection.,1,0.7,0,0.4899999999999999,Service & Support
+57,45.76410896179609,2490.4708662427915,Standard,Debit Card,0,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+11,53.19073734328659,737.2341343045796,Premium,Debit Card,0,1,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+12,71.73709623846857,4193.853158273405,Standard,Credit Card,0,5,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+10,11.564181116693169,1914.9452327490017,Standard,PayPal,1,3,Affordable and good selection.,1,0.7,0,0.4899999999999999,Service & Support
+32,39.08175913632507,1936.537482130802,Basic,Credit Card,0,4,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+16,97.57879732633118,2422.631499567464,Premium,Debit Card,1,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+8,62.21010067259213,2276.225794512183,Premium,Credit Card,1,3,"Good content, but too expensive.",1,0.0999999999999999,0,0.0699999999999999,Service & Support
+38,32.880212190774394,4974.804067990675,Standard,Bank Transfer,1,2,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+12,56.95570419725918,2772.3674939696825,Premium,PayPal,0,4,Great service!,0,1.0,1,1.0,Service & Support
+24,40.83881393088238,532.1883485703663,Standard,Credit Card,1,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+28,57.90204899436692,3073.698973726957,Standard,Bank Transfer,1,1,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+53,21.316736062598395,842.7630350624117,Basic,PayPal,0,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+8,21.944318843734965,251.59445918357568,Basic,Bank Transfer,0,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+58,22.91881258354536,4856.636553018516,Basic,PayPal,1,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+28,94.58378127341577,3890.340568519363,Standard,Credit Card,0,1,Affordable and good selection.,0,0.7,-1,0.1899999999999999,Service & Support
+36,75.96090265072077,4902.534062827458,Premium,Bank Transfer,0,2,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+26,24.61437051960888,2441.604395308988,Basic,Debit Card,0,5,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+8,26.95141753890413,2708.061902629983,Premium,Bank Transfer,0,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+58,75.77465273837888,924.8510840037382,Basic,PayPal,1,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+50,24.05474603129565,1309.8463906711693,Basic,Credit Card,0,1,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+28,31.11051640013458,4208.891153023858,Standard,PayPal,0,2,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+28,96.70121495383592,1845.3096708762116,Basic,Bank Transfer,0,3,Frequent buffering issues.,0,0.1,0,0.0699999999999999,Pricing & Value
+37,32.977587225558864,4151.393371602453,Basic,Bank Transfer,1,1,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+41,69.5469115334032,3574.167249006456,Standard,Debit Card,1,4,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+36,98.07681586604774,968.137533832141,Premium,Credit Card,0,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+27,43.68670904258134,2586.4871939867367,Basic,Credit Card,0,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+54,11.576439177585602,3419.1978754417123,Standard,Bank Transfer,1,1,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+17,31.973256138013685,1251.682352538743,Basic,Credit Card,0,3,Price is too high for what you get.,0,0.16,0,0.1119999999999999,Pricing & Value
+9,84.7789472207535,4170.373701548377,Standard,Debit Card,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+33,87.8147952359533,2769.6555219714155,Premium,PayPal,1,1,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+53,79.1667428071412,909.6860471687556,Premium,Credit Card,0,2,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+20,20.17988371689157,2956.623688206552,Standard,Bank Transfer,0,3,Customer support is unresponsive.,1,0.0,0,0.0,Content Quality
+13,81.59593345267628,4998.597640363979,Standard,PayPal,1,4,"Good content, but too expensive.",1,0.0999999999999999,1,0.37,Service & Support
+28,92.6810017294154,837.5553091507264,Standard,PayPal,1,4,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+48,64.05485882916125,4102.108957585688,Premium,Debit Card,0,5,Frequent buffering issues.,0,0.1,1,0.37,Pricing & Value
+29,94.67878207042584,1115.814115619034,Basic,Bank Transfer,1,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+13,84.41549953406897,3933.702814354428,Premium,Credit Card,0,5,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+46,70.02743652918166,3699.431823294925,Standard,Bank Transfer,0,1,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+35,61.94667130405733,1572.3979894421186,Standard,PayPal,0,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+6,41.37163005177735,1696.533276065804,Premium,Bank Transfer,1,1,Love the variety of shows!,0,0.625,-1,0.1375,Content Quality
+18,24.33587007185246,3983.354820618304,Standard,Credit Card,1,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+51,64.44585304214868,2361.083008247832,Premium,Credit Card,0,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+5,38.63003982563075,3681.008340687863,Standard,Debit Card,0,5,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+47,87.97948007748809,825.1223220925904,Basic,Credit Card,1,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+25,99.40032436227656,4277.533131317612,Basic,Credit Card,1,4,Very slow and bad experience.,0,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+2,77.71849863540153,3583.3351117433635,Standard,Bank Transfer,1,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+10,18.14335257583457,4544.019763290687,Premium,Bank Transfer,0,3,Price is too high for what you get.,0,0.16,0,0.1119999999999999,Pricing & Value
+56,35.98170359775743,748.624657271365,Basic,PayPal,1,2,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+30,19.819866858917475,3005.7710517669284,Premium,Debit Card,1,2,Streaming quality is poor.,0,-0.4,-1,-0.58,Service & Support
+50,68.54604830125442,3035.6908666975933,Standard,Bank Transfer,0,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+59,78.86717781002062,1831.957628679234,Premium,Credit Card,0,2,Customer support is unresponsive.,0,0.0,-1,-0.3,Content Quality
+45,93.31073477926408,2346.485480389363,Basic,PayPal,0,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+5,49.43551117707889,286.109660120282,Premium,Bank Transfer,1,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+55,91.12380846296,3754.714189272359,Premium,Debit Card,0,4,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+56,89.01020431371948,2791.680149075553,Standard,Debit Card,0,3,Streaming quality is poor.,1,-0.4,0,-0.2799999999999999,Service & Support
+33,38.54761450888587,382.93115415895153,Standard,PayPal,0,4,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+54,88.2010562986514,3435.703875506379,Standard,PayPal,0,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+1,43.81050266935539,2387.232178432821,Basic,PayPal,1,5,Great service!,1,1.0,1,1.0,Service & Support
+18,36.71823471042527,268.86017118250004,Basic,PayPal,0,2,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+32,68.41671929149538,4851.077861555667,Standard,PayPal,1,3,Price is too high for what you get.,0,0.16,0,0.1119999999999999,Pricing & Value
+47,39.5543105096573,4750.6495011382585,Standard,Credit Card,1,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+49,66.71878734962297,2613.221839121268,Basic,Credit Card,1,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+11,64.8848624948825,558.99486145896,Basic,Bank Transfer,0,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+21,60.709503461361294,3797.6439858331,Basic,Debit Card,1,4,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+26,44.23777338095179,2510.4623905180724,Basic,Credit Card,0,2,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+25,59.364974948632906,1581.9926436179614,Standard,Credit Card,0,4,"Good content, but too expensive.",1,0.0999999999999999,1,0.37,Service & Support
+22,63.683692748687946,2507.949069889928,Basic,Credit Card,0,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+59,59.111819964592605,2659.976312486776,Standard,Bank Transfer,1,5,Affordable and good selection.,1,0.7,1,0.7899999999999999,Service & Support
+27,49.99775074760814,2857.287325209462,Premium,PayPal,0,2,Best streaming service ever!,0,1.0,-1,0.3999999999999999,Content Quality
+49,11.320035134163742,2261.9961969111,Premium,Bank Transfer,0,4,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+13,62.835553693103584,3068.200985381378,Basic,Debit Card,0,2,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+33,25.159994662844767,4601.800081971249,Premium,Debit Card,1,5,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+34,67.83183720524707,1875.1136267830968,Premium,Debit Card,1,4,"Good content, but too expensive.",0,0.0999999999999999,1,0.37,Service & Support
+41,78.34098951305793,3656.010669777751,Premium,Debit Card,1,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+35,55.04007782176673,4482.817528438738,Basic,Credit Card,0,2,"Good content, but too expensive.",1,0.0999999999999999,-1,-0.23,Service & Support
+1,58.812729848176446,2334.298451223691,Basic,Credit Card,1,2,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+21,95.6330703699392,2272.93359827133,Premium,Bank Transfer,0,1,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+48,86.24506252353167,3050.37322823842,Standard,PayPal,0,5,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+55,92.2812864356323,2997.8931211701915,Premium,Debit Card,1,1,Affordable and good selection.,1,0.7,-1,0.1899999999999999,Service & Support
+6,83.23896594876278,4052.287777398757,Basic,Bank Transfer,0,4,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+28,19.80265076620583,2434.7685805136343,Basic,Credit Card,1,2,"Good content, but too expensive.",0,0.0999999999999999,-1,-0.23,Service & Support
+17,23.409267037317523,4981.002453233262,Basic,Credit Card,0,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+5,57.39614175420636,391.41068744967583,Premium,PayPal,1,4,Great service!,1,1.0,1,1.0,Service & Support
+31,32.14626929181984,115.52245804543853,Standard,PayPal,0,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+5,52.902592753704326,3236.9717266421567,Basic,PayPal,0,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+38,45.49287914365152,1562.3310705731958,Basic,Bank Transfer,0,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+3,59.4472814587408,1277.8737046274707,Premium,Credit Card,0,2,Great service!,0,1.0,-1,0.3999999999999999,Service & Support
+53,77.21881445222404,1628.3054920209745,Standard,Credit Card,0,4,Customer support is unresponsive.,1,0.0,1,0.3,Content Quality
+23,74.3941816389347,1354.633069014276,Premium,PayPal,1,3,Best streaming service ever!,1,1.0,0,0.7,Content Quality
+37,56.91107192368009,250.87124333619445,Basic,Debit Card,0,2,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+53,84.01540769353522,4860.511907713884,Standard,PayPal,1,4,Great service!,0,1.0,1,1.0,Service & Support
+37,48.777588238423,1181.6528934186306,Standard,Bank Transfer,1,5,Great service!,1,1.0,1,1.0,Service & Support
+10,90.70428608561102,3696.745836687601,Basic,PayPal,1,5,Love the variety of shows!,1,0.625,1,0.7375,Content Quality
+10,16.415224304964752,3836.722334001459,Standard,PayPal,0,4,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+19,95.91940270299769,4653.361250235424,Standard,Bank Transfer,0,2,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+17,68.92237732882134,249.69233975756185,Premium,PayPal,0,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+21,44.20670580434847,4373.036858390337,Basic,Credit Card,1,4,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+14,27.74387139155896,2683.408286115021,Basic,Debit Card,0,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+9,53.126490649924,3199.4661388325567,Basic,PayPal,0,5,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+46,27.51024908667709,3257.904357893065,Basic,Bank Transfer,1,3,Streaming quality is poor.,0,-0.4,0,-0.2799999999999999,Service & Support
+1,24.969844696882795,4117.009244425165,Basic,Debit Card,1,3,Frequent buffering issues.,0,0.1,0,0.0699999999999999,Pricing & Value
+51,65.56165816716768,1733.6958785796414,Standard,Bank Transfer,1,4,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+45,57.07762521236062,3691.950830313968,Premium,Debit Card,1,3,Love the variety of shows!,0,0.625,0,0.4375,Content Quality
+13,70.30864311498476,2690.032737638766,Basic,Debit Card,1,5,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+4,93.66452896797902,3987.630670096204,Premium,PayPal,1,3,Very slow and bad experience.,1,-0.5449999999999999,0,-0.3814999999999999,Pricing & Value
+1,57.90341920051362,4953.6755605736535,Premium,Credit Card,0,5,Price is too high for what you get.,1,0.16,1,0.412,Pricing & Value
+49,62.283884793651794,1083.18998527843,Standard,PayPal,1,3,Great service!,0,1.0,0,0.7,Service & Support
+40,18.06637052394479,4973.7783436439895,Basic,Bank Transfer,0,5,Affordable and good selection.,0,0.7,1,0.7899999999999999,Service & Support
+32,74.58722073177665,540.0795559855926,Standard,Bank Transfer,0,3,"Good content, but too expensive.",1,0.0999999999999999,0,0.0699999999999999,Service & Support
+34,45.99146861237406,111.35598473358796,Basic,Debit Card,0,3,"Good content, but too expensive.",1,0.0999999999999999,0,0.0699999999999999,Service & Support
+28,97.9052714796321,316.39348727137315,Standard,Debit Card,1,2,Very slow and bad experience.,0,-0.5449999999999999,-1,-0.6815,Pricing & Value
+31,84.08566140360942,1774.7337832101323,Premium,Credit Card,0,5,Best streaming service ever!,1,1.0,1,1.0,Content Quality
+8,57.02329364645065,3201.241020324328,Basic,PayPal,1,5,Streaming quality is poor.,1,-0.4,1,0.02,Service & Support
+39,21.090038875494944,438.2447503504632,Premium,Bank Transfer,1,5,Best streaming service ever!,0,1.0,1,1.0,Content Quality
+26,87.34742139525302,127.76249119487964,Premium,Debit Card,0,1,Very slow and bad experience.,1,-0.5449999999999999,-1,-0.6815,Pricing & Value
+58,81.98029858816194,4691.746039448094,Standard,Credit Card,1,3,Best streaming service ever!,0,1.0,0,0.7,Content Quality
+34,26.612661658332968,4127.440516105655,Basic,Bank Transfer,0,5,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+54,36.5750460298279,4064.997538581252,Premium,Debit Card,0,1,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+54,81.40665323330536,4433.678949959688,Standard,Bank Transfer,1,2,Price is too high for what you get.,0,0.16,-1,-0.188,Pricing & Value
+3,26.67056018926687,3530.1679365833115,Basic,Credit Card,0,5,Price is too high for what you get.,0,0.16,1,0.412,Pricing & Value
+59,92.59772402542396,611.5802357655991,Basic,Credit Card,0,5,Streaming quality is poor.,0,-0.4,1,0.02,Service & Support
+50,48.20746826767257,2055.590921561243,Premium,Bank Transfer,0,1,Love the variety of shows!,1,0.625,-1,0.1375,Content Quality
+12,17.83350663288928,3643.432483676685,Basic,PayPal,1,3,Affordable and good selection.,1,0.7,0,0.4899999999999999,Service & Support
+1,83.41737791538527,1473.6388578784524,Premium,Bank Transfer,0,2,Great service!,1,1.0,-1,0.3999999999999999,Service & Support
+54,43.61587147345489,3468.291184267564,Basic,Debit Card,1,5,Love the variety of shows!,0,0.625,1,0.7375,Content Quality
+44,57.38492747384029,220.0423965114965,Standard,PayPal,1,3,Customer support is unresponsive.,0,0.0,0,0.0,Content Quality
+5,20.107390997009723,1600.072970310007,Premium,Debit Card,0,2,Frequent buffering issues.,1,0.1,-1,-0.2299999999999999,Pricing & Value
+30,10.232561336048414,2790.7386477581463,Premium,Bank Transfer,0,4,Very slow and bad experience.,1,-0.5449999999999999,1,-0.0814999999999999,Pricing & Value
+30,67.4186685213968,3197.240164580587,Basic,PayPal,1,4,Customer support is unresponsive.,0,0.0,1,0.3,Content Quality
+59,56.36576533003584,2927.499255863363,Basic,Debit Card,1,2,Streaming quality is poor.,1,-0.4,-1,-0.58,Service & Support
+57,63.41847122108325,3519.0057527598046,Premium,Bank Transfer,0,1,Customer support is unresponsive.,1,0.0,-1,-0.3,Content Quality
+17,81.43694653424647,129.83486637521145,Basic,Bank Transfer,0,2,Price is too high for what you get.,1,0.16,-1,-0.188,Pricing & Value
+48,68.19453220805741,594.6118798898553,Standard,PayPal,1,2,Best streaming service ever!,1,1.0,-1,0.3999999999999999,Content Quality
+47,25.729609854463945,4357.826836167811,Basic,Bank Transfer,1,1,Great service!,1,1.0,-1,0.3999999999999999,Service & Support

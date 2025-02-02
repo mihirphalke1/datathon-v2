@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -344,6 +345,66 @@ def prediction_page(df):
     st.success('Predictions have been saved to data/churn_predictions.csv')
 
 # --------------------------
+# Retention Strategies Page Functions
+# --------------------------
+def retention_strategies_page(df):
+    st.title("Retention Strategies Recommendations")
+    
+    st.markdown("""
+    Our AI-driven model not only predicts churn but also recommends personalized retention actions to keep your customers engaged.
+    """)
+
+    # Ensure 'CustomerID' exists or create one
+    if 'CustomerID' not in df.columns:
+        st.warning("CustomerID not found. Creating a unique index-based identifier.")
+        df['CustomerID'] = df.index.astype(str)  # Use index as a fallback ID
+
+    # Data Processing
+    processed_data, label_encoders = preprocess_data(df.copy())
+    features = [col for col in processed_data.columns if col not in ['Churn', 'CustomerID']]
+    X = processed_data[features]
+    y = processed_data['Churn']
+    
+    # Train the churn prediction model
+    with st.spinner('Training churn prediction model for retention strategies...'):
+        model = train_optimized_model(X, y)
+    
+    # Get churn probability predictions for all customers
+    probabilities = model.predict_proba(X)[:, 1]
+    processed_data['Churn_Probability'] = probabilities
+    processed_data['CustomerID'] = df['CustomerID']  # Retain CustomerID
+
+    # Define retention strategy recommendations based on churn probability thresholds
+    conditions = [
+       (processed_data['Churn_Probability'] > 0.7),
+       ((processed_data['Churn_Probability'] > 0.4) & (processed_data['Churn_Probability'] <= 0.7)),
+       (processed_data['Churn_Probability'] <= 0.4)
+    ]
+    actions = [
+       "High Risk: Offer a discount, free trial extension, or premium content recommendation. Send personalized retention email.",
+       "Medium Risk: Send targeted content recommendations and surveys to understand concerns. Offer mid-level incentives.",
+       "Low Risk: Encourage continued engagement with updates on new releases and popular content."
+    ]
+    
+    processed_data['Retention_Action'] = np.select(conditions, actions, default="No Action: Monitor engagement.")
+    
+    # Sort by Churn Probability (Descending)
+    sorted_data = processed_data[['CustomerID', 'Churn_Probability', 'Retention_Action']].sort_values(by='Churn_Probability', ascending=False)
+    
+    # Display Recommendations
+    st.subheader("Sample Retention Recommendations (Sorted by Churn Probability)")
+    st.dataframe(sorted_data.head(20))
+
+    # Download Option
+    st.download_button(
+       label="Download Retention Recommendations",
+       data=sorted_data.to_csv(index=False),
+       file_name="retention_recommendations.csv",
+       mime="text/csv"
+    )
+
+
+# --------------------------
 # Main App
 # --------------------------
 def main():
@@ -351,12 +412,16 @@ def main():
     data = load_data()
     
     st.sidebar.title("Navigation")
-    page = st.sidebar.radio("Select Analysis Type", ["Customer Clustering", "Churn Prediction"])
+    page = st.sidebar.radio("Select Analysis Type", 
+                            ["Customer Clustering", "Churn Prediction", "Retention Strategies"])
     
     if page == "Customer Clustering":
         clustering_page(data)
     elif page == "Churn Prediction":
         prediction_page(data)
+    elif page == "Retention Strategies":
+        retention_strategies_page(data)
 
 if __name__ == "__main__":
     main()
+

@@ -4,4 +4,3 @@ scikit-learn
 streamlit
 plotly
 lifelines
-warnings

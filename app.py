@@ -13,8 +13,7 @@ from sklearn.pipeline import Pipeline
 import plotly.express as px
 import plotly.graph_objects as go
 from lifelines import CoxPHFitter
-import warnings
-warnings.filterwarnings('ignore')
+
 
 # --------------------------
 # Shared Data Loading

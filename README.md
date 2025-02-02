@@ -4,6 +4,7 @@
 
 ## 🎯 Overview
 
+Link to deployed project: https://mihirphalke1-datathon-v2-app-byghe1.streamlit.app/
 This project is made as a part of DataThon 2025 held at KJ Somaiya College of Engineering.
 
 The Customer Churn Analytics Model is a comprehensive solution for subscription-based businesses to predict, analyze, and prevent customer churn. Built with Streamlit and powered by advanced machine learning algorithms, this application provides real-time insights and actionable recommendations to improve customer retention.
